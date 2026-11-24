@@ -1,0 +1,61 @@
+WW-20 — Mes données sont dispersées
+============================================================
+Publication : semaine 7 · 2027-01-13 · Instagram 12 h 30 · LinkedIn 8 h 30
+Format : Vidéo · Thématique : Problématiques clients · Pilier : Démonstrations & réalisations
+Objectif : Démontrer la centralisation / automatisation des données (concept)
+Direction artistique : Animation de fichiers et tableurs éparpillés qui convergent vers un dashboard unifié (données fictives). Particules / lignes de flux, rythme rapide.
+
+--- INSTAGRAM ---
+Accroche : Tes données sont partout. Sauf là où tu en as besoin.
+CTA : Parlons de ton projet
+
+Tes données sont partout. Sauf là où tu en as besoin. 📂
+
+Un tableur pour les ventes, un autre pour le stock, le CRM d’un côté, la compta de l’autre…
+Et chaque fin de mois : 3 heures pour tout recoller.
+
+La solution : centraliser et automatiser.
+Tes outils envoient leurs données au même endroit → un tableau de bord à jour, tout seul.
+
+(Dashboard de la vidéo = données fictives.)
+
+👉 On centralise les tiennes ? Lien en bio.
+
+#WELLWISH #agencedigitale #TPE #PME #dirigeant #croissance #digitalisation #data
+
+--- LINKEDIN ---
+Accroche : Vos données sont partout. Sauf là où vous en avez besoin.
+CTA : Parlons de votre projet
+
+Vos données sont partout. Sauf là où vous en avez besoin.
+
+Ventes dans un tableur, stock dans un autre, CRM, outil comptable, exports de plateformes… Dans beaucoup d’entreprises, la donnée existe mais elle est dispersée. Chaque reporting devient une opération manuelle, longue et sujette aux erreurs.
+
+La centralisation consiste à faire converger automatiquement ces sources vers un référentiel unique, et à en tirer un tableau de bord à jour en permanence.
+
+Les bénéfices :
+• un temps de reporting drastiquement réduit,
+• des indicateurs fiables et partagés,
+• des décisions prises sur des données actuelles plutôt que sur des exports anciens.
+
+La vidéo illustre ce principe avec des données fictives. Parlons de votre cas : wellwish.fr/contact
+
+#PME #Digitalisation #Performance #WELLWISH
+
+--- STORYBOARD (version Instagram) ---
+0.0–3.6 s | Visuel : Navy, accroche.
+            Texte : Données · Automatisation Tes données sont partout. Sauf là où tu en as besoin.
+            Mouvement : Masque montant puis sous-titre.
+3.6–12.6 s | Visuel : Fichiers et outils éparpillés (tableurs, CRM, exports), puis convergence vers un dashboard unifié (données fictives).
+            Texte : Ventes.xlsx Stock_v3.xlsx CRM Compta Export_marketplace.csv Factures.pdf Planning Emails Vue unifiée Données fictives Ventes Stock Marge
+            Mouvement : Pop des fichiers en cascade, aspiration vers le centre, apparition flou → net du dashboard.
+12.6–16.6 s | Visuel : Lavande, punchline.
+            Texte : Un tableau de bord. À jour. Tout seul.
+            Mouvement : Trois temps.
+16.6–22.1 s | Visuel : Carte de fin navy + grille. Le symbole W se construit bande par bande, mot WELLWISH, bouton CTA.
+            Texte : WELLWISH Parlons de ton projet wellwish.fr
+            Mouvement : Révélation par masque vertical des 3 bandes (décalage 0,16 s), pop du CTA.
+
+Voix off (option) : Vos données sont partout. Sauf là où vous en avez besoin. Centralisées et synchronisées automatiquement, elles deviennent un tableau de bord à jour. Tout seul.
+Indications sonores : Sound design « data » : clics, ticks rapides pendant la dispersion, aspiration (reverse whoosh) à la convergence, accord résolu à l’apparition du dashboard.
+Couverture : dernière image de l'accroche (fichier _Reel_couverture.png).

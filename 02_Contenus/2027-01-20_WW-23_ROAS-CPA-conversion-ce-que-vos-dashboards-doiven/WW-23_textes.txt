@@ -1,0 +1,67 @@
+WW-23 — ROAS, CPA, conversion : ce que vos dashboards doivent vous dire
+============================================================
+Publication : semaine 8 · 2027-01-20 · Instagram 12 h 30 · LinkedIn 8 h 30
+Format : Vidéo · Thématique : Publicité et acquisition · Pilier : Expertise & pédagogie
+Objectif : Pédagogie sur les indicateurs publicitaires
+Direction artistique : Dashboard animé (données fictives) : les trois KPI s’allument un par un avec leur définition en typographie animée. Fond lavande puis navy.
+
+--- INSTAGRAM ---
+Accroche : ROAS, CPA, conversion : 3 chiffres à comprendre avant de booster une pub.
+CTA : Parlons de tes campagnes
+
+3 chiffres à comprendre avant de booster une pub. 📈
+
+ROAS → ce que rapporte 1 € investi en pub
+CPA → ce que te coûte une vente (ou un lead)
+Taux de conversion → la part de visiteurs qui passent à l’action
+
+Si tu ne connais pas ces 3 chiffres pour tes campagnes, tu pilotes à l’aveugle.
+
+(Dashboard de la vidéo = données fictives.)
+
+💾 Enregistre cette vidéo
+👉 On t’aide à les suivre ? Lien en bio.
+
+#WELLWISH #agencedigitale #googleads #metaads #publicitedigitale #acquisition #ROAS
+
+--- LINKEDIN ---
+Accroche : Trois indicateurs à maîtriser avant d’augmenter un budget publicitaire.
+CTA : Contactez-nous pour échanger sur vos besoins
+
+Trois indicateurs à maîtriser avant d’augmenter un budget publicitaire.
+
+ROAS (Return On Ad Spend) — le chiffre d’affaires généré pour chaque euro investi en publicité.
+CPA (Coût Par Acquisition) — le coût d’obtention d’une vente ou d’un contact qualifié.
+Taux de conversion — la proportion de visiteurs qui réalisent l’action attendue.
+
+Pris isolément, aucun ne suffit. Un ROAS élevé sur un volume minime, un CPA bas sur des leads non qualifiés, un bon taux de conversion sur une audience trop restreinte : c’est leur lecture combinée, rapportée à vos marges, qui permet de décider où investir.
+
+La vidéo illustre ces indicateurs avec des données fictives.
+
+Contactez-nous pour échanger sur le pilotage de vos campagnes : wellwish.fr/contact
+
+#Acquisition #MarketingDigital #Performance #WELLWISH
+
+--- STORYBOARD (version Instagram) ---
+0.0–3.8 s | Visuel : Lavande, accroche.
+            Texte : Acquisition · Pédagogie 3 chiffres à comprendre avant de booster une pub.
+            Mouvement : Masque montant.
+3.8–9.0 s | Visuel : KPI « ROAS » en XL dégradé, définition, histogramme (données fictives).
+            Texte : 01 / 03 · Return On Ad Spend ROAS Ce que rapporte 1 € investi en publicité. Données fictives
+            Mouvement : Pop du sigle, barres qui montent en cascade.
+9.0–14.2 s | Visuel : KPI « CPA » en XL dégradé, définition, histogramme (données fictives).
+            Texte : 02 / 03 · Coût par acquisition CPA Ce que coûte une vente ou un contact. Données fictives
+            Mouvement : Pop du sigle, barres qui montent en cascade.
+14.2–19.4 s | Visuel : KPI « Conversion » en XL dégradé, définition, histogramme (données fictives).
+            Texte : 03 / 03 · Taux de conversion Conversion La part de visiteurs qui passent à l’action. Données fictives
+            Mouvement : Pop du sigle, barres qui montent en cascade.
+19.4–23.6 s | Visuel : Lavande, conclusion.
+            Texte : Ensemble, rapportés à tes marges. Pilote , ne parie pas.
+            Mouvement : Masque montant.
+23.6–29.1 s | Visuel : Carte de fin navy + grille. Le symbole W se construit bande par bande, mot WELLWISH, bouton CTA.
+            Texte : WELLWISH Parlons de tes campagnes wellwish.fr
+            Mouvement : Révélation par masque vertical des 3 bandes (décalage 0,16 s), pop du CTA.
+
+Voix off (option) : Trois chiffres à comprendre avant d’augmenter un budget pub. Le ROAS : ce que rapporte un euro investi. Le CPA : ce que coûte une vente. Le taux de conversion : la part de visiteurs qui passent à l’action. Pilotez, ne pariez pas.
+Indications sonores : Beat minimal type « data », un impact par KPI, barres accompagnées d’un arpège montant.
+Couverture : dernière image de l'accroche (fichier _Reel_couverture.png).

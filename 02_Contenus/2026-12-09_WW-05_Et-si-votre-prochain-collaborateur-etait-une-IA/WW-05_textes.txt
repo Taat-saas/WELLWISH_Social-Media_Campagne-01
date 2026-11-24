@@ -1,0 +1,69 @@
+WW-05 — Et si votre prochain collaborateur était une IA ?
+============================================================
+Publication : semaine 2 · 2026-12-09 · Instagram 12 h 30 · LinkedIn 8 h 30
+Format : Vidéo · Thématique : SaaS et intelligence artificielle · Pilier : Intelligence artificielle & innovation
+Objectif : Susciter l’intérêt pour les assistants IA métier
+Direction artistique : Interface de chat d’assistant IA (concept illustratif) qui répond en temps réel, puis enchaîne des actions : devis préparé, email rédigé, CRM mis à jour. Fond navy, bulles lavande.
+
+--- INSTAGRAM ---
+Accroche : Et si ton prochain collaborateur était une IA ?
+CTA : Construisons ton assistant
+
+Et si ton prochain collaborateur était une IA ? 🤖
+
+Pas un gadget. Un assistant branché sur TES outils, qui :
+→ répond aux questions fréquentes
+→ prépare un devis à partir d’une demande
+→ rédige les emails de relance
+→ met à jour ton CRM
+
+Toi, tu valides. Lui, il exécute.
+
+⚠️ La vidéo est un exemple illustratif : chaque assistant se conçoit à partir de tes vrais processus.
+
+On en parle ? Lien en bio.
+
+#WELLWISH #agencedigitale #SaaS #intelligenceartificielle #IA #automatisation #nocode
+
+--- LINKEDIN ---
+Accroche : Et si votre prochain collaborateur était une intelligence artificielle ?
+CTA : Construisons ensemble votre prochaine solution
+
+Et si votre prochain collaborateur était une intelligence artificielle ?
+
+La question n’est plus de savoir si l’IA peut être utile à une PME, mais où elle l’est concrètement.
+
+Un assistant IA métier n’est pas un chatbot générique. Il est connecté à vos outils et à vos données, et prend en charge des tâches précises :
+• répondre aux questions récurrentes de vos clients ou de vos équipes,
+• préparer un devis à partir d’une demande entrante,
+• rédiger des relances,
+• mettre à jour votre CRM.
+
+L’humain garde la main sur la validation. L’assistant absorbe la partie répétitive.
+
+La vidéo présente un exemple illustratif. Dans la réalité, tout commence par l’analyse de vos processus : quelles tâches prennent du temps, lesquelles peuvent être fiabilisées, et avec quelles données.
+
+Vous identifiez déjà des tâches à confier à une IA ? Échangeons : wellwish.fr/contact
+
+#SaaS #IntelligenceArtificielle #Automatisation #WELLWISH
+
+--- STORYBOARD (version Instagram) ---
+0.0–3.6 s | Visuel : Navy + grille, accroche.
+            Texte : IA · Assistant métier Et si ton prochain collaborateur était une IA ?
+            Mouvement : Masque montant ligne à ligne.
+3.6–11.8 s | Visuel : Interface de chat d’assistant IA (concept), bulles lavande / navy.
+            Texte : Assistant IA en ligne Une demande de devis vient d’arriver. Tu peux t’en occuper ? C’est fait. Devis préparé à partir du catalogue, relance programmée dans 3 jours. Parfait, envoie-le. Envoyé ✓ CRM mis à jour.
+            Mouvement : Bulles glissées gauche/droite au rythme d’une vraie conversation.
+11.8–18.4 s | Visuel : Trois actions en nœuds reliés, coche dégradée sur chacune.
+            Texte : Ce qu’il vient de faire Devis préparé Relance rédigée CRM mis à jour
+            Mouvement : Nœuds glissés depuis la gauche, connecteurs qui se tracent, coches en pop.
+18.4–22.2 s | Visuel : Lavande, punchline.
+            Texte : Toi, tu valides. Lui, il exécute.
+            Mouvement : Deux temps marqués (0,5 s).
+22.2–27.7 s | Visuel : Carte de fin navy + grille. Le symbole W se construit bande par bande, mot WELLWISH, bouton CTA.
+            Texte : WELLWISH Construisons ton assistant wellwish.fr
+            Mouvement : Révélation par masque vertical des 3 bandes (décalage 0,16 s), pop du CTA.
+
+Voix off (option) : Et si votre prochain collaborateur était une IA ? Branché sur vos outils, il prépare un devis, rédige les relances, met à jour le CRM. Vous validez. Il exécute.
+Indications sonores : Pulsation tech légère. Son « message » discret à chaque bulle, « tick » à chaque validation. Pas de musique épique.
+Couverture : dernière image de l'accroche (fichier _Reel_couverture.png).

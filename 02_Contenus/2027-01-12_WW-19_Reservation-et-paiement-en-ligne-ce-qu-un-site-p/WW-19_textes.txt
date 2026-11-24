@@ -1,0 +1,44 @@
+WW-19 — Réservation et paiement en ligne : ce qu’un site peut faire pour vous
+============================================================
+Publication : semaine 7 · 2027-01-12 · Instagram 12 h 30 · LinkedIn 8 h 30
+Format : Carrousel · Thématique : Développement web · Pilier : Expertise & pédagogie
+Objectif : Promouvoir les sites avec réservation / paiement
+Direction artistique : Mockups navigateur et parcours de réservation (calendrier → paiement → confirmation) en nœuds. Lavande / blanc, CTA navy.
+
+--- INSTAGRAM ---
+Accroche : Et si ton site prenait les réservations à ta place ?
+CTA : Parlons de ton projet
+
+Et si ton site prenait les réservations à ta place ? 📅
+
+Fini les appels manqués et les « tu as un créneau mardi ? ».
+
+Avec la réservation + paiement en ligne :
+1. ton client choisit son créneau
+2. il paie ou laisse un acompte
+3. confirmation et rappel partent tout seuls
+
+Idéal pour les prestations de services, la location, les ateliers, les événements…
+
+👉 Ton activité pourrait en profiter ? Parle-nous en, lien en bio.
+
+#WELLWISH #agencedigitale #siteinternet #webdesign #UXUI #SEO #entrepreneur #reservationenligne
+
+--- LINKEDIN ---
+Accroche : Votre site peut-il encaisser et réserver à votre place ?
+CTA : Parlons de votre projet
+
+Votre site peut-il encaisser et réserver à votre place ?
+
+Pour de nombreuses activités de services, la prise de rendez-vous reste manuelle : appels, emails, allers-retours, oublis. Un temps important, et des clients perdus lorsqu’on ne répond pas assez vite.
+
+Un site avec réservation et paiement en ligne automatise ce parcours :
+1. le client choisit un créneau disponible,
+2. il règle sa prestation ou verse un acompte,
+3. la confirmation et les rappels sont envoyés automatiquement.
+
+Les bénéfices : des réservations possibles à toute heure, moins de rendez-vous non honorés grâce à l’acompte et aux rappels, un agenda toujours à jour.
+
+Prestations de services, location, ateliers, formations, événements : parlons de votre projet. wellwish.fr/contact
+
+#SiteInternet #ExpérienceUtilisateur #Conversion #WELLWISH

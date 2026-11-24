@@ -1,0 +1,69 @@
+WW-26 — Et si nous transformions votre idée en logiciel ?
+============================================================
+Publication : semaine 9 · 2027-01-27 · Instagram 12 h 30 · LinkedIn 8 h 30
+Format : Vidéo · Thématique : SaaS et intelligence artificielle · Pilier : Démonstrations & réalisations
+Objectif : Démontrer le passage idée → maquette → logiciel (concept)
+Direction artistique : Une note manuscrite stylisée « idée » devient wireframe, puis interface SaaS complète (dashboard illustratif), en 3 morphings. Typo animée entre les étapes.
+
+--- INSTAGRAM ---
+Accroche : Et si on transformait ton idée en logiciel ?
+CTA : Transformons ton idée en solution
+
+Et si on transformait ton idée en logiciel ? 💡→💻
+
+Tu as un process qu’aucun logiciel du marché ne gère bien ?
+Une idée de SaaS qui te trotte dans la tête ?
+
+Le chemin :
+1. idée → on la challenge
+2. maquette → on la rend concrète
+3. logiciel → on le développe, on le déploie, on le fait évoluer
+
+(Interface de la vidéo = exemple illustratif.)
+
+👉 Raconte-nous ton idée, lien en bio.
+
+#WELLWISH #agencedigitale #SaaS #intelligenceartificielle #IA #automatisation #nocode #webapp
+
+--- LINKEDIN ---
+Accroche : Et si nous transformions votre idée en logiciel ?
+CTA : Transformons votre idée en solution
+
+Et si nous transformions votre idée en logiciel ?
+
+Un processus métier qu’aucune solution du marché ne couvre correctement. Une idée de SaaS identifiée sur le terrain. Un outil interne devenu indispensable mais qui repose sur des tableurs.
+
+Notre démarche :
+1. Challenger l’idée : quel problème, pour quels utilisateurs, avec quelle valeur.
+2. La rendre tangible : parcours, maquettes, priorisation des fonctionnalités.
+3. Développer, déployer et faire évoluer : une première version utile rapidement, puis des itérations guidées par l’usage.
+
+La vidéo illustre ce cheminement sur un exemple fictif.
+
+Transformons votre idée en solution : wellwish.fr/contact
+
+#SaaS #IntelligenceArtificielle #Automatisation #WELLWISH
+
+--- STORYBOARD (version Instagram) ---
+0.0–3.8 s | Visuel : Navy, accroche.
+            Texte : SaaS · Sur mesure Et si on transformait ton idée en logiciel ?
+            Mouvement : Masque montant.
+3.8–8.8 s | Visuel : Note autocollante avec une idée de logiciel.
+            Texte : 01 · L’idée « Suivre mes commandes fournisseurs sans tableur . » On la challenge : quel problème, pour qui, quelle valeur.
+            Mouvement : Pop légèrement incliné, surlignage magenta qui se trace.
+8.8–13.8 s | Visuel : Wireframe en niveaux de gris dans un navigateur.
+            Texte : 02 · La maquette On la rend concrète : parcours, écrans, priorités.
+            Mouvement : Blocs tracés par balayage, cartes en pop.
+13.8–19.8 s | Visuel : Interface SaaS complète (concept, données fictives).
+            Texte : 03 · Le logiciel Commandes fournisseurs Données fictives En cours Expédiées Retards On développe, on déploie, on fait évoluer.
+            Mouvement : Morphing flou → net depuis la maquette.
+19.8–23.2 s | Visuel : Lavande, punchline.
+            Texte : De l’idée à la solution.
+            Mouvement : Deux temps.
+23.2–28.7 s | Visuel : Carte de fin navy + grille. Le symbole W se construit bande par bande, mot WELLWISH, bouton CTA.
+            Texte : WELLWISH Transformons ton idée wellwish.fr
+            Mouvement : Révélation par masque vertical des 3 bandes (décalage 0,16 s), pop du CTA.
+
+Voix off (option) : Et si nous transformions votre idée en logiciel ? D’abord, on la challenge. Ensuite, on la rend concrète. Enfin, on la développe, on la déploie et on la fait évoluer.
+Indications sonores : Montée progressive en trois paliers (un par étape), son de crayon sur l’idée, clics UI sur la maquette, impact sur le logiciel.
+Couverture : dernière image de l'accroche (fichier _Reel_couverture.png).

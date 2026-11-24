@@ -1,0 +1,67 @@
+WW-12 — Un beau site qui ne convertit pas reste un mauvais investissement
+============================================================
+Publication : semaine 4 · 2026-12-23 · Instagram 12 h 30 · LinkedIn 8 h 30
+Format : Vidéo · Thématique : Développement web · Pilier : Démonstrations & réalisations
+Objectif : Démontrer la différence entre un site « joli » et un site performant
+Direction artistique : Avant/après animé : un site vieillissant désaturé se transforme en site moderne (concept illustratif). Annotations qui pointent promesse, CTA, réassurance, vitesse.
+
+--- INSTAGRAM ---
+Accroche : Un beau site qui ne convertit pas, c’est un mauvais investissement.
+CTA : Parlons de ton site
+
+Un beau site qui ne convertit pas, c’est un mauvais investissement. 🎯
+
+Le design compte. Mais un site, c’est d’abord un outil commercial :
+→ une promesse claire dès l’arrivée
+→ un appel à l’action visible
+→ de la réassurance (avis, paiement, contact)
+→ de la vitesse, surtout sur mobile
+
+Beau ET efficace : c’est possible, c’est même le minimum.
+
+(Avant/après = exemple illustratif.)
+
+👉 Ton site mérite un vrai diagnostic ? Lien en bio.
+
+#WELLWISH #agencedigitale #siteinternet #webdesign #UXUI #SEO #entrepreneur
+
+--- LINKEDIN ---
+Accroche : Un beau site internet qui ne convertit pas reste un mauvais investissement.
+CTA : Parlons de votre projet
+
+Un beau site internet qui ne convertit pas reste un mauvais investissement.
+
+Le design est un levier de crédibilité. Mais un site d’entreprise est avant tout un outil commercial, et il se juge à ce qu’il produit : des demandes, des réservations, des ventes.
+
+Les éléments qui font la différence sont rarement esthétiques :
+• une proposition de valeur comprise dès les premières secondes,
+• un appel à l’action visible à chaque étape,
+• des éléments de réassurance (avis, paiement sécurisé, contact direct),
+• des performances techniques, en particulier sur mobile.
+
+La vidéo illustre cette transformation sur un exemple fictif : même contenu de départ, mais une page pensée pour convertir.
+
+Votre site est-il conçu pour générer des opportunités ? Parlons-en : wellwish.fr/contact
+
+#SiteInternet #ExpérienceUtilisateur #Conversion #WELLWISH
+
+--- STORYBOARD (version Instagram) ---
+0.0–3.8 s | Visuel : Fond blanc chaud, accroche.
+            Texte : Web · Conversion Un beau site qui ne convertit pas = un mauvais investissement.
+            Mouvement : Masque montant ligne à ligne.
+3.8–8.8 s | Visuel : Mockup navigateur d’un site vieillissant, désaturé (concept).
+            Texte : Avant votre-site.fr Promesse floue Aucun appel à l’action Lent sur mobile
+            Mouvement : Zoom arrière d’entrée, annotations corail en pop successif.
+8.8–17.2 s | Visuel : Le même site transformé : navy, promesse forte, CTA dégradé, bandeau de réassurance (concept).
+            Texte : Après votre-site.fr Votre marque Demander un devis Une promesse claire. Réserver → Voir les offres ★ Avis clients ✓ Paiement sécurisé ⚡ Réponse rapide Promesse claire Appel à l’action visible Réassurance Rapide sur mobile
+            Mouvement : Transition flou → net, 4 annotations en pop toutes les 1,1 s.
+17.2–21.2 s | Visuel : Lavande, punchline.
+            Texte : Beau et efficace. C’est le minimum.
+            Mouvement : Deux temps.
+21.2–26.7 s | Visuel : Carte de fin navy + grille. Le symbole W se construit bande par bande, mot WELLWISH, bouton CTA.
+            Texte : WELLWISH Parlons de ton site wellwish.fr
+            Mouvement : Révélation par masque vertical des 3 bandes (décalage 0,16 s), pop du CTA.
+
+Voix off (option) : Un beau site qui ne convertit pas reste un mauvais investissement. Une promesse claire, un appel à l’action visible, de la réassurance, de la vitesse. Beau, et efficace.
+Indications sonores : Rythme pop-électro léger. Son « glitch » sur l’ancien site, « swoosh » lumineux à la transformation, « pop » sur chaque annotation.
+Couverture : dernière image de l'accroche (fichier _Reel_couverture.png).
