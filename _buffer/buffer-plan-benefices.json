@@ -252,48 +252,6 @@
   "statut": "à créer"
  },
  {
-  "id": "B-07",
-  "net": "instagram",
-  "dueAt": "2026-11-30T09:00:00+01:00",
-  "text": "Un seul interlocuteur pour tout ton digital.\n\nImagine : site, pub, réseaux, outils : une seule équipe qui coordonne tout.\n\nCe que ça change pour toi :\n→ du temps libéré : une seule personne à appeler\n→ une stratégie cohérente : chaque action sert le même objectif\n→ des résultats plus rapides : pas de temps perdu entre prestataires\n\n💾 Enregistre ce Reel · 👉 Parlons de ton projet : lien en bio\n\n#WELLWISH #agencedigitale #marketingdigital #entrepreneur #TPE #PME",
-  "assets": [
-   {
-    "video": {
-     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-11-30_B-07_Un-seul-interlocuteur-pour-tout-ton-digital/Instagram/B-07_Reel_v3_1080x1920_musique.mp4",
-     "metadata": {
-      "thumbnailOffset": 2100
-     }
-    }
-   }
-  ],
-  "metadata": {
-   "instagram": {
-    "type": "reel",
-    "shouldShareToFeed": true
-   }
-  },
-  "statut": "publié le 28/11 à 11 h 27"
- },
- {
-  "id": "B-07",
-  "net": "facebook",
-  "dueAt": "2026-11-30T09:30:00+01:00",
-  "text": "Un seul interlocuteur pour tout ton digital.\n\nImagine : site, pub, réseaux, outils : une seule équipe qui coordonne tout.\n\nCe que ça change pour toi :\n→ du temps libéré : une seule personne à appeler\n→ une stratégie cohérente : chaque action sert le même objectif\n→ des résultats plus rapides : pas de temps perdu entre prestataires\n\n👉 Parlons de ton projet : wellwish.fr/contact\n\n#WELLWISH #agencedigitale #marketingdigital #entrepreneur",
-  "assets": [
-   {
-    "video": {
-     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-11-30_B-07_Un-seul-interlocuteur-pour-tout-ton-digital/Instagram/B-07_Reel_v3_1080x1920_musique.mp4"
-    }
-   }
-  ],
-  "metadata": {
-   "facebook": {
-    "type": "reel"
-   }
-  },
-  "statut": "publié le 28/11 à 11 h 27"
- },
- {
   "id": "B-08",
   "net": "instagram",
   "dueAt": "2026-11-28T12:30:00+01:00",
@@ -504,6 +462,29 @@
   "statut": "programmé (7j/7)"
  },
  {
+  "id": "B-07",
+  "net": "instagram",
+  "dueAt": "2026-11-30T09:00:00+01:00",
+  "text": "Un seul interlocuteur pour tout ton digital.\n\nImagine : site, pub, réseaux, outils : une seule équipe qui coordonne tout.\n\nCe que ça change pour toi :\n→ du temps libéré : une seule personne à appeler\n→ une stratégie cohérente : chaque action sert le même objectif\n→ des résultats plus rapides : pas de temps perdu entre prestataires\n\n💾 Enregistre ce Reel · 👉 Parlons de ton projet : lien en bio\n\n#WELLWISH #agencedigitale #marketingdigital #entrepreneur #TPE #PME",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-11-30_B-07_Un-seul-interlocuteur-pour-tout-ton-digital/Instagram/B-07_Reel_v3_1080x1920_musique.mp4",
+     "metadata": {
+      "thumbnailOffset": 2100
+     }
+    }
+   }
+  ],
+  "metadata": {
+   "instagram": {
+    "type": "reel",
+    "shouldShareToFeed": true
+   }
+  },
+  "statut": "publié le 28/11 à 11 h 27"
+ },
+ {
   "id": "B-13",
   "net": "instagram",
   "dueAt": "2026-11-30T09:00:00+01:00",
@@ -525,6 +506,25 @@
    }
   },
   "statut": "programmé (7j/7)"
+ },
+ {
+  "id": "B-07",
+  "net": "facebook",
+  "dueAt": "2026-11-30T09:30:00+01:00",
+  "text": "Un seul interlocuteur pour tout ton digital.\n\nImagine : site, pub, réseaux, outils : une seule équipe qui coordonne tout.\n\nCe que ça change pour toi :\n→ du temps libéré : une seule personne à appeler\n→ une stratégie cohérente : chaque action sert le même objectif\n→ des résultats plus rapides : pas de temps perdu entre prestataires\n\n👉 Parlons de ton projet : wellwish.fr/contact\n\n#WELLWISH #agencedigitale #marketingdigital #entrepreneur",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-11-30_B-07_Un-seul-interlocuteur-pour-tout-ton-digital/Instagram/B-07_Reel_v3_1080x1920_musique.mp4"
+    }
+   }
+  ],
+  "metadata": {
+   "facebook": {
+    "type": "reel"
+   }
+  },
+  "statut": "publié le 28/11 à 11 h 27"
  },
  {
   "id": "B-13",
@@ -2184,9 +2184,1773 @@
   "statut": "à créer"
  },
  {
-  "id": "B-53",
+  "id": "B-55",
   "net": "instagram",
   "dueAt": "2026-12-13T12:30:00+01:00",
+  "text": "Tes visiteurs trouvent la réponse sans t’appeler.\n\nImagine : horaires, zone, délais : tout est sur ton site. Le téléphone sonne pour de vrais projets.\n\nCe que ça change pour toi :\n→ du temps gagné : moins d’appels répétitifs\n→ des prospects informés : ils arrivent en connaissant ton offre\n→ une meilleure image : un site complet inspire confiance\n\n💾 Enregistre ce Reel · 👉 Parlons de ton site : lien en bio\n\n#WELLWISH #agencedigitale #siteinternet #referencement #visibilite #entrepreneur",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-13_B-55_Tes-visiteurs-trouvent-la-reponse-sans-t-appeler/Instagram/B-55_Reel_v3_1080x1920_musique.mp4",
+     "metadata": {
+      "thumbnailOffset": 2100
+     }
+    }
+   }
+  ],
+  "metadata": {
+   "instagram": {
+    "type": "reel",
+    "shouldShareToFeed": true
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-55",
+  "net": "facebook",
+  "dueAt": "2026-12-13T13:00:00+01:00",
+  "text": "Tes visiteurs trouvent la réponse sans t’appeler.\n\nImagine : horaires, zone, délais : tout est sur ton site. Le téléphone sonne pour de vrais projets.\n\nCe que ça change pour toi :\n→ du temps gagné : moins d’appels répétitifs\n→ des prospects informés : ils arrivent en connaissant ton offre\n→ une meilleure image : un site complet inspire confiance\n\n👉 Parlons de ton site : wellwish.fr/contact\n\n#WELLWISH #agencedigitale #siteinternet #referencement",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-13_B-55_Tes-visiteurs-trouvent-la-reponse-sans-t-appeler/Instagram/B-55_Reel_v3_1080x1920_musique.mp4"
+    }
+   }
+  ],
+  "metadata": {
+   "facebook": {
+    "type": "reel"
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-56",
+  "net": "instagram",
+  "dueAt": "2026-12-13T18:30:00+01:00",
+  "text": "Fais parler de toi sans payer de pub.\n\nImagine : un contenu bien pensé est partagé… et de nouveaux clients découvrent ton nom.\n\nCe que ça change pour toi :\n→ une notoriété qui grandit : chaque partage te présente à de nouvelles personnes\n→ moins de dépendance à la pub : ton contenu travaille aussi pour toi\n→ des contacts plus chauds : on vient de la part de quelqu’un\n\n💾 Enregistre ce Reel · 👉 Parlons de ta visibilité : lien en bio\n\n#WELLWISH #agencedigitale #viralite #reseauxsociaux #contenu #reels",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-13_B-56_Fais-parler-de-toi-sans-payer-de-pub/Instagram/B-56_Reel_v3_1080x1920_musique.mp4",
+     "metadata": {
+      "thumbnailOffset": 2100
+     }
+    }
+   }
+  ],
+  "metadata": {
+   "instagram": {
+    "type": "reel",
+    "shouldShareToFeed": true
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-56",
+  "net": "facebook",
+  "dueAt": "2026-12-13T19:00:00+01:00",
+  "text": "Fais parler de toi sans payer de pub.\n\nImagine : un contenu bien pensé est partagé… et de nouveaux clients découvrent ton nom.\n\nCe que ça change pour toi :\n→ une notoriété qui grandit : chaque partage te présente à de nouvelles personnes\n→ moins de dépendance à la pub : ton contenu travaille aussi pour toi\n→ des contacts plus chauds : on vient de la part de quelqu’un\n\n👉 Parlons de ta visibilité : wellwish.fr/contact\n\n#WELLWISH #agencedigitale #viralite #reseauxsociaux",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-13_B-56_Fais-parler-de-toi-sans-payer-de-pub/Instagram/B-56_Reel_v3_1080x1920_musique.mp4"
+    }
+   }
+  ],
+  "metadata": {
+   "facebook": {
+    "type": "reel"
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-57",
+  "net": "instagram",
+  "dueAt": "2026-12-14T09:00:00+01:00",
+  "text": "L’IA qui qualifie tes prospects pour toi.\n\nImagine : un prospect écrit sur ton site. L’assistant pose les bonnes questions… et tu reçois une demande complète.\n\nCe que ça change pour toi :\n→ du temps gagné : tu sais tout avant d’appeler\n→ des prospects mieux accueillis : ils ont une réponse immédiate\n→ des rendez-vous plus utiles : tu priorises les vrais projets\n\n⚠️ Exemple illustratif : chaque solution est conçue à partir de ta situation réelle.\n\n💾 Enregistre ce Reel · 👉 Parlons de ton projet : lien en bio\n\n#WELLWISH #agencedigitale #webapp #intelligenceartificielle #automatisation #gaindetemps",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-14_B-57_L-IA-qui-qualifie-tes-prospects-pour-toi/Instagram/B-57_Reel_v3_1080x1920_musique.mp4",
+     "metadata": {
+      "thumbnailOffset": 2100
+     }
+    }
+   }
+  ],
+  "metadata": {
+   "instagram": {
+    "type": "reel",
+    "shouldShareToFeed": true
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-57",
+  "net": "facebook",
+  "dueAt": "2026-12-14T09:30:00+01:00",
+  "text": "L’IA qui qualifie tes prospects pour toi.\n\nImagine : un prospect écrit sur ton site. L’assistant pose les bonnes questions… et tu reçois une demande complète.\n\nCe que ça change pour toi :\n→ du temps gagné : tu sais tout avant d’appeler\n→ des prospects mieux accueillis : ils ont une réponse immédiate\n→ des rendez-vous plus utiles : tu priorises les vrais projets\n\n⚠️ Exemple illustratif : chaque solution est conçue à partir de ta situation réelle.\n\n👉 Parlons de ton projet : wellwish.fr/contact\n\n#WELLWISH #agencedigitale #webapp #intelligenceartificielle",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-14_B-57_L-IA-qui-qualifie-tes-prospects-pour-toi/Instagram/B-57_Reel_v3_1080x1920_musique.mp4"
+    }
+   }
+  ],
+  "metadata": {
+   "facebook": {
+    "type": "reel"
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-58",
+  "net": "instagram",
+  "dueAt": "2026-12-14T12:30:00+01:00",
+  "text": "Tes commentaires cachent des opportunités.\n\nImagine : quelqu’un pose une question sous ton post… et reçoit une réponse rapide qui l’invite à aller plus loin.\n\nCe que ça change pour toi :\n→ plus d’opportunités : chaque question devient un échange\n→ une image réactive : on voit que tu es présent\n→ plus de visibilité : les échanges font vivre ton post\n\n💾 Enregistre ce Reel · 👉 Parlons de ta visibilité : lien en bio\n\n#WELLWISH #agencedigitale #viralite #reseauxsociaux #contenu #reels",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-14_B-58_Tes-commentaires-cachent-des-opportunites/Instagram/B-58_Reel_v3_1080x1920_musique.mp4",
+     "metadata": {
+      "thumbnailOffset": 2100
+     }
+    }
+   }
+  ],
+  "metadata": {
+   "instagram": {
+    "type": "reel",
+    "shouldShareToFeed": true
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-58",
+  "net": "facebook",
+  "dueAt": "2026-12-14T13:00:00+01:00",
+  "text": "Tes commentaires cachent des opportunités.\n\nImagine : quelqu’un pose une question sous ton post… et reçoit une réponse rapide qui l’invite à aller plus loin.\n\nCe que ça change pour toi :\n→ plus d’opportunités : chaque question devient un échange\n→ une image réactive : on voit que tu es présent\n→ plus de visibilité : les échanges font vivre ton post\n\n👉 Parlons de ta visibilité : wellwish.fr/contact\n\n#WELLWISH #agencedigitale #viralite #reseauxsociaux",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-14_B-58_Tes-commentaires-cachent-des-opportunites/Instagram/B-58_Reel_v3_1080x1920_musique.mp4"
+    }
+   }
+  ],
+  "metadata": {
+   "facebook": {
+    "type": "reel"
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-59",
+  "net": "instagram",
+  "dueAt": "2026-12-14T18:30:00+01:00",
+  "text": "Ta boutique prête pour les soldes ?\n\nImagine : le jour J, tes offres sont en avant, tes stocks à jour… et les commandes s’enchaînent.\n\nCe que ça change pour toi :\n→ plus de ventes sur les pics : tu profites de chaque temps fort\n→ moins de stress : tout est prêt à l’avance\n→ des clients satisfaits : des commandes fiables, sans mauvaise surprise\n\n💾 Enregistre ce Reel · 👉 Parlons de ta boutique : lien en bio\n\n#WELLWISH #agencedigitale #ecommerce #boutiqueenligne #ventes #ecommercant",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-14_B-59_Ta-boutique-prete-pour-les-soldes/Instagram/B-59_Reel_v3_1080x1920_musique.mp4",
+     "metadata": {
+      "thumbnailOffset": 2100
+     }
+    }
+   }
+  ],
+  "metadata": {
+   "instagram": {
+    "type": "reel",
+    "shouldShareToFeed": true
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-59",
+  "net": "facebook",
+  "dueAt": "2026-12-14T19:00:00+01:00",
+  "text": "Ta boutique prête pour les soldes ?\n\nImagine : le jour J, tes offres sont en avant, tes stocks à jour… et les commandes s’enchaînent.\n\nCe que ça change pour toi :\n→ plus de ventes sur les pics : tu profites de chaque temps fort\n→ moins de stress : tout est prêt à l’avance\n→ des clients satisfaits : des commandes fiables, sans mauvaise surprise\n\n👉 Parlons de ta boutique : wellwish.fr/contact\n\n#WELLWISH #agencedigitale #ecommerce #boutiqueenligne",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-14_B-59_Ta-boutique-prete-pour-les-soldes/Instagram/B-59_Reel_v3_1080x1920_musique.mp4"
+    }
+   }
+  ],
+  "metadata": {
+   "facebook": {
+    "type": "reel"
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-60",
+  "net": "instagram",
+  "dueAt": "2026-12-15T09:00:00+01:00",
+  "text": "Explique ce que tu fais en un Reel.\n\nImagine : un inconnu tombe sur ta vidéo. À la fin, il sait pourquoi te choisir.\n\nCe que ça change pour toi :\n→ un message retenu : ton offre devient facile à comprendre\n→ des vidéos vues jusqu’au bout : un format court garde l’attention\n→ plus de partages : une idée claire se transmet facilement\n\n💾 Enregistre ce Reel · 👉 Parlons de ta visibilité : lien en bio\n\n#WELLWISH #agencedigitale #viralite #reseauxsociaux #contenu #reels",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-15_B-60_Explique-ce-que-tu-fais-en-un-Reel/Instagram/B-60_Reel_v3_1080x1920_musique.mp4",
+     "metadata": {
+      "thumbnailOffset": 2100
+     }
+    }
+   }
+  ],
+  "metadata": {
+   "instagram": {
+    "type": "reel",
+    "shouldShareToFeed": true
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-60",
+  "net": "facebook",
+  "dueAt": "2026-12-15T09:30:00+01:00",
+  "text": "Explique ce que tu fais en un Reel.\n\nImagine : un inconnu tombe sur ta vidéo. À la fin, il sait pourquoi te choisir.\n\nCe que ça change pour toi :\n→ un message retenu : ton offre devient facile à comprendre\n→ des vidéos vues jusqu’au bout : un format court garde l’attention\n→ plus de partages : une idée claire se transmet facilement\n\n👉 Parlons de ta visibilité : wellwish.fr/contact\n\n#WELLWISH #agencedigitale #viralite #reseauxsociaux",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-15_B-60_Explique-ce-que-tu-fais-en-un-Reel/Instagram/B-60_Reel_v3_1080x1920_musique.mp4"
+    }
+   }
+  ],
+  "metadata": {
+   "facebook": {
+    "type": "reel"
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-61",
+  "net": "instagram",
+  "dueAt": "2026-12-15T12:30:00+01:00",
+  "text": "Ta page LinkedIn peut ouvrir des portes.\n\nImagine : un décideur visite ta page entreprise… et te contacte pour un projet.\n\nCe que ça change pour toi :\n→ plus d’opportunités B2B : les décideurs te découvrent\n→ une image d’expert : tes posts montrent ton savoir-faire\n→ un réseau qui grandit : chaque post élargit ta portée\n\n💾 Enregistre ce Reel · 👉 Parlons de ta visibilité : lien en bio\n\n#WELLWISH #agencedigitale #reseauxsociaux #communicationdigitale #visibilite #entrepreneur",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-15_B-61_Ta-page-LinkedIn-peut-ouvrir-des-portes/Instagram/B-61_Reel_v3_1080x1920_musique.mp4",
+     "metadata": {
+      "thumbnailOffset": 2100
+     }
+    }
+   }
+  ],
+  "metadata": {
+   "instagram": {
+    "type": "reel",
+    "shouldShareToFeed": true
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-61",
+  "net": "facebook",
+  "dueAt": "2026-12-15T13:00:00+01:00",
+  "text": "Ta page LinkedIn peut ouvrir des portes.\n\nImagine : un décideur visite ta page entreprise… et te contacte pour un projet.\n\nCe que ça change pour toi :\n→ plus d’opportunités B2B : les décideurs te découvrent\n→ une image d’expert : tes posts montrent ton savoir-faire\n→ un réseau qui grandit : chaque post élargit ta portée\n\n👉 Parlons de ta visibilité : wellwish.fr/contact\n\n#WELLWISH #agencedigitale #reseauxsociaux #communicationdigitale",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-15_B-61_Ta-page-LinkedIn-peut-ouvrir-des-portes/Instagram/B-61_Reel_v3_1080x1920_musique.mp4"
+    }
+   }
+  ],
+  "metadata": {
+   "facebook": {
+    "type": "reel"
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-62",
+  "net": "instagram",
+  "dueAt": "2026-12-15T18:30:00+01:00",
+  "text": "Ta pub doit mener vers une page qui convertit.\n\nImagine : le prospect clique sur ton annonce… et arrive sur une page faite pour lui.\n\nCe que ça change pour toi :\n→ plus de contacts : chaque clic a plus de chances d’aboutir\n→ un budget mieux utilisé : moins de clics perdus\n→ un message cohérent : de l’annonce à la page\n\n💾 Enregistre ce Reel · 👉 Parlons de tes campagnes : lien en bio\n\n#WELLWISH #agencedigitale #publicitedigitale #googleads #metaads #acquisition",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-15_B-62_Ta-pub-doit-mener-vers-une-page-qui-convertit/Instagram/B-62_Reel_v3_1080x1920_musique.mp4",
+     "metadata": {
+      "thumbnailOffset": 2100
+     }
+    }
+   }
+  ],
+  "metadata": {
+   "instagram": {
+    "type": "reel",
+    "shouldShareToFeed": true
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-62",
+  "net": "facebook",
+  "dueAt": "2026-12-15T19:00:00+01:00",
+  "text": "Ta pub doit mener vers une page qui convertit.\n\nImagine : le prospect clique sur ton annonce… et arrive sur une page faite pour lui.\n\nCe que ça change pour toi :\n→ plus de contacts : chaque clic a plus de chances d’aboutir\n→ un budget mieux utilisé : moins de clics perdus\n→ un message cohérent : de l’annonce à la page\n\n👉 Parlons de tes campagnes : wellwish.fr/contact\n\n#WELLWISH #agencedigitale #publicitedigitale #googleads",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-15_B-62_Ta-pub-doit-mener-vers-une-page-qui-convertit/Instagram/B-62_Reel_v3_1080x1920_musique.mp4"
+    }
+   }
+  ],
+  "metadata": {
+   "facebook": {
+    "type": "reel"
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-63",
+  "net": "instagram",
+  "dueAt": "2026-12-16T09:00:00+01:00",
+  "text": "Un logo qu’on reconnaît au premier regard.\n\nImagine : ton logo passe dans un fil d’actualité… et on sait tout de suite que c’est toi.\n\nCe que ça change pour toi :\n→ une marque mémorable : on te reconnaît partout\n→ une image pro : ton logo inspire confiance\n→ plus de recommandations : on retient facilement ton nom\n\n💾 Enregistre ce Reel · 👉 Construisons ta marque : lien en bio\n\n#WELLWISH #agencedigitale #branding #identitevisuelle #marque #entrepreneur",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-16_B-63_Un-logo-qu-on-reconnait-au-premier-regard/Instagram/B-63_Reel_v3_1080x1920_musique.mp4",
+     "metadata": {
+      "thumbnailOffset": 2100
+     }
+    }
+   }
+  ],
+  "metadata": {
+   "instagram": {
+    "type": "reel",
+    "shouldShareToFeed": true
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-63",
+  "net": "facebook",
+  "dueAt": "2026-12-16T09:30:00+01:00",
+  "text": "Un logo qu’on reconnaît au premier regard.\n\nImagine : ton logo passe dans un fil d’actualité… et on sait tout de suite que c’est toi.\n\nCe que ça change pour toi :\n→ une marque mémorable : on te reconnaît partout\n→ une image pro : ton logo inspire confiance\n→ plus de recommandations : on retient facilement ton nom\n\n👉 Construisons ta marque : wellwish.fr/contact\n\n#WELLWISH #agencedigitale #branding #identitevisuelle",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-16_B-63_Un-logo-qu-on-reconnait-au-premier-regard/Instagram/B-63_Reel_v3_1080x1920_musique.mp4"
+    }
+   }
+  ],
+  "metadata": {
+   "facebook": {
+    "type": "reel"
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-64",
+  "net": "instagram",
+  "dueAt": "2026-12-16T12:30:00+01:00",
+  "text": "Une page par service, plus de clients sur Google.\n\nImagine : chaque service a sa page… et chaque recherche peut mener jusqu’à toi.\n\nCe que ça change pour toi :\n→ plus de visibilité : tu apparais sur plus de recherches\n→ des visiteurs ciblés : chacun arrive sur la bonne page\n→ plus de demandes : le visiteur trouve exactement son besoin\n\n💾 Enregistre ce Reel · 👉 Parlons de ton site : lien en bio\n\n#WELLWISH #agencedigitale #siteinternet #referencement #visibilite #entrepreneur",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-16_B-64_Une-page-par-service-plus-de-clients-sur-Google/Instagram/B-64_Reel_v3_1080x1920_musique.mp4",
+     "metadata": {
+      "thumbnailOffset": 2100
+     }
+    }
+   }
+  ],
+  "metadata": {
+   "instagram": {
+    "type": "reel",
+    "shouldShareToFeed": true
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-64",
+  "net": "facebook",
+  "dueAt": "2026-12-16T13:00:00+01:00",
+  "text": "Une page par service, plus de clients sur Google.\n\nImagine : chaque service a sa page… et chaque recherche peut mener jusqu’à toi.\n\nCe que ça change pour toi :\n→ plus de visibilité : tu apparais sur plus de recherches\n→ des visiteurs ciblés : chacun arrive sur la bonne page\n→ plus de demandes : le visiteur trouve exactement son besoin\n\n👉 Parlons de ton site : wellwish.fr/contact\n\n#WELLWISH #agencedigitale #siteinternet #referencement",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-16_B-64_Une-page-par-service-plus-de-clients-sur-Google/Instagram/B-64_Reel_v3_1080x1920_musique.mp4"
+    }
+   }
+  ],
+  "metadata": {
+   "facebook": {
+    "type": "reel"
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-65",
+  "net": "instagram",
+  "dueAt": "2026-12-16T18:30:00+01:00",
+  "text": "Ta bio Instagram doit convertir en un coup d’œil.\n\nImagine : un visiteur arrive sur ton profil. En une ligne, il sait ce que tu fais et comment te contacter.\n\nCe que ça change pour toi :\n→ des abonnés qualifiés : on comprend vite ton offre\n→ plus de clics : le lien mène au bon endroit\n→ plus de contacts : le chemin est évident\n\n💾 Enregistre ce Reel · 👉 Parlons de ta visibilité : lien en bio\n\n#WELLWISH #agencedigitale #viralite #reseauxsociaux #contenu #reels",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-16_B-65_Ta-bio-Instagram-doit-convertir-en-un-coup-d-il/Instagram/B-65_Reel_v3_1080x1920_musique.mp4",
+     "metadata": {
+      "thumbnailOffset": 2100
+     }
+    }
+   }
+  ],
+  "metadata": {
+   "instagram": {
+    "type": "reel",
+    "shouldShareToFeed": true
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-65",
+  "net": "facebook",
+  "dueAt": "2026-12-16T19:00:00+01:00",
+  "text": "Ta bio Instagram doit convertir en un coup d’œil.\n\nImagine : un visiteur arrive sur ton profil. En une ligne, il sait ce que tu fais et comment te contacter.\n\nCe que ça change pour toi :\n→ des abonnés qualifiés : on comprend vite ton offre\n→ plus de clics : le lien mène au bon endroit\n→ plus de contacts : le chemin est évident\n\n👉 Parlons de ta visibilité : wellwish.fr/contact\n\n#WELLWISH #agencedigitale #viralite #reseauxsociaux",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-16_B-65_Ta-bio-Instagram-doit-convertir-en-un-coup-d-il/Instagram/B-65_Reel_v3_1080x1920_musique.mp4"
+    }
+   }
+  ],
+  "metadata": {
+   "facebook": {
+    "type": "reel"
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-66",
+  "net": "instagram",
+  "dueAt": "2026-12-17T09:00:00+01:00",
+  "text": "Tes clients suivent leur dossier sans t’appeler.\n\nImagine : ton client se connecte et voit où en est son projet. Ton téléphone se calme.\n\nCe que ça change pour toi :\n→ moins d’appels : le client trouve l’info seul\n→ des clients rassurés : ils voient que ça avance\n→ une image pro : un espace client fait la différence\n\n⚠️ Exemple illustratif : chaque solution est conçue à partir de ta situation réelle.\n\n💾 Enregistre ce Reel · 👉 Parlons de ton projet : lien en bio\n\n#WELLWISH #agencedigitale #webapp #intelligenceartificielle #automatisation #gaindetemps",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-17_B-66_Tes-clients-suivent-leur-dossier-sans-t-appeler/Instagram/B-66_Reel_v3_1080x1920_musique.mp4",
+     "metadata": {
+      "thumbnailOffset": 2100
+     }
+    }
+   }
+  ],
+  "metadata": {
+   "instagram": {
+    "type": "reel",
+    "shouldShareToFeed": true
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-66",
+  "net": "facebook",
+  "dueAt": "2026-12-17T09:30:00+01:00",
+  "text": "Tes clients suivent leur dossier sans t’appeler.\n\nImagine : ton client se connecte et voit où en est son projet. Ton téléphone se calme.\n\nCe que ça change pour toi :\n→ moins d’appels : le client trouve l’info seul\n→ des clients rassurés : ils voient que ça avance\n→ une image pro : un espace client fait la différence\n\n⚠️ Exemple illustratif : chaque solution est conçue à partir de ta situation réelle.\n\n👉 Parlons de ton projet : wellwish.fr/contact\n\n#WELLWISH #agencedigitale #webapp #intelligenceartificielle",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-17_B-66_Tes-clients-suivent-leur-dossier-sans-t-appeler/Instagram/B-66_Reel_v3_1080x1920_musique.mp4"
+    }
+   }
+  ],
+  "metadata": {
+   "facebook": {
+    "type": "reel"
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-67",
+  "net": "instagram",
+  "dueAt": "2026-12-17T12:30:00+01:00",
+  "text": "Montre l’avant / après de ton travail.\n\nImagine : une transformation en quelques secondes… et tout le monde veut la même chose.\n\nCe que ça change pour toi :\n→ une preuve concrète : ton savoir-faire se voit\n→ un contenu qui capte : l’avant / après retient l’attention\n→ plus de demandes : on veut le même résultat\n\n💾 Enregistre ce Reel · 👉 Parlons de ta visibilité : lien en bio\n\n#WELLWISH #agencedigitale #viralite #reseauxsociaux #contenu #reels",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-17_B-67_Montre-l-avant-apres-de-ton-travail/Instagram/B-67_Reel_v3_1080x1920_musique.mp4",
+     "metadata": {
+      "thumbnailOffset": 2100
+     }
+    }
+   }
+  ],
+  "metadata": {
+   "instagram": {
+    "type": "reel",
+    "shouldShareToFeed": true
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-67",
+  "net": "facebook",
+  "dueAt": "2026-12-17T13:00:00+01:00",
+  "text": "Montre l’avant / après de ton travail.\n\nImagine : une transformation en quelques secondes… et tout le monde veut la même chose.\n\nCe que ça change pour toi :\n→ une preuve concrète : ton savoir-faire se voit\n→ un contenu qui capte : l’avant / après retient l’attention\n→ plus de demandes : on veut le même résultat\n\n👉 Parlons de ta visibilité : wellwish.fr/contact\n\n#WELLWISH #agencedigitale #viralite #reseauxsociaux",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-17_B-67_Montre-l-avant-apres-de-ton-travail/Instagram/B-67_Reel_v3_1080x1920_musique.mp4"
+    }
+   }
+  ],
+  "metadata": {
+   "facebook": {
+    "type": "reel"
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-68",
+  "net": "instagram",
+  "dueAt": "2026-12-17T18:30:00+01:00",
+  "text": "Livraison, retours : dis-le clairement.\n\nImagine : ton client sait quand il reçoit sa commande et comment la retourner. Il achète sans hésiter.\n\nCe que ça change pour toi :\n→ moins d’abandons : le client n’a plus de doute\n→ moins de questions : les réponses sont déjà là\n→ une boutique de confiance : une politique claire rassure\n\n💾 Enregistre ce Reel · 👉 Parlons de ta boutique : lien en bio\n\n#WELLWISH #agencedigitale #ecommerce #boutiqueenligne #ventes #ecommercant",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-17_B-68_Livraison-retours-dis-le-clairement/Instagram/B-68_Reel_v3_1080x1920_musique.mp4",
+     "metadata": {
+      "thumbnailOffset": 2100
+     }
+    }
+   }
+  ],
+  "metadata": {
+   "instagram": {
+    "type": "reel",
+    "shouldShareToFeed": true
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-68",
+  "net": "facebook",
+  "dueAt": "2026-12-17T19:00:00+01:00",
+  "text": "Livraison, retours : dis-le clairement.\n\nImagine : ton client sait quand il reçoit sa commande et comment la retourner. Il achète sans hésiter.\n\nCe que ça change pour toi :\n→ moins d’abandons : le client n’a plus de doute\n→ moins de questions : les réponses sont déjà là\n→ une boutique de confiance : une politique claire rassure\n\n👉 Parlons de ta boutique : wellwish.fr/contact\n\n#WELLWISH #agencedigitale #ecommerce #boutiqueenligne",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-17_B-68_Livraison-retours-dis-le-clairement/Instagram/B-68_Reel_v3_1080x1920_musique.mp4"
+    }
+   }
+  ],
+  "metadata": {
+   "facebook": {
+    "type": "reel"
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-69",
+  "net": "instagram",
+  "dueAt": "2026-12-18T09:00:00+01:00",
+  "text": "Être vu, oui. Mais par les bons clients.\n\nImagine : ton contenu touche les personnes qui ont vraiment besoin de toi.\n\nCe que ça change pour toi :\n→ une audience qualifiée : tes abonnés sont des clients potentiels\n→ des demandes utiles : moins de curieux, plus de projets\n→ une image cohérente : ton contenu reflète ton positionnement\n\n💾 Enregistre ce Reel · 👉 Parlons de ta visibilité : lien en bio\n\n#WELLWISH #agencedigitale #viralite #reseauxsociaux #contenu #reels",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-18_B-69_Etre-vu-oui-Mais-par-les-bons-clients/Instagram/B-69_Reel_v3_1080x1920_musique.mp4",
+     "metadata": {
+      "thumbnailOffset": 2100
+     }
+    }
+   }
+  ],
+  "metadata": {
+   "instagram": {
+    "type": "reel",
+    "shouldShareToFeed": true
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-69",
+  "net": "facebook",
+  "dueAt": "2026-12-18T09:30:00+01:00",
+  "text": "Être vu, oui. Mais par les bons clients.\n\nImagine : ton contenu touche les personnes qui ont vraiment besoin de toi.\n\nCe que ça change pour toi :\n→ une audience qualifiée : tes abonnés sont des clients potentiels\n→ des demandes utiles : moins de curieux, plus de projets\n→ une image cohérente : ton contenu reflète ton positionnement\n\n👉 Parlons de ta visibilité : wellwish.fr/contact\n\n#WELLWISH #agencedigitale #viralite #reseauxsociaux",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-18_B-69_Etre-vu-oui-Mais-par-les-bons-clients/Instagram/B-69_Reel_v3_1080x1920_musique.mp4"
+    }
+   }
+  ],
+  "metadata": {
+   "facebook": {
+    "type": "reel"
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-70",
+  "net": "instagram",
+  "dueAt": "2026-12-18T12:30:00+01:00",
+  "text": "Ta fiche Google, ton premier réseau social.\n\nImagine : photos récentes, avis, actus : ta fiche Google donne envie de venir.\n\nCe que ça change pour toi :\n→ plus de visites : une fiche vivante attire\n→ plus de confiance : répondre aux avis rassure\n→ plus de visibilité locale : une fiche active se remarque\n\n💾 Enregistre ce Reel · 👉 Parlons de ta visibilité : lien en bio\n\n#WELLWISH #agencedigitale #reseauxsociaux #communicationdigitale #visibilite #entrepreneur",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-18_B-70_Ta-fiche-Google-ton-premier-reseau-social/Instagram/B-70_Reel_v3_1080x1920_musique.mp4",
+     "metadata": {
+      "thumbnailOffset": 2100
+     }
+    }
+   }
+  ],
+  "metadata": {
+   "instagram": {
+    "type": "reel",
+    "shouldShareToFeed": true
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-70",
+  "net": "facebook",
+  "dueAt": "2026-12-18T13:00:00+01:00",
+  "text": "Ta fiche Google, ton premier réseau social.\n\nImagine : photos récentes, avis, actus : ta fiche Google donne envie de venir.\n\nCe que ça change pour toi :\n→ plus de visites : une fiche vivante attire\n→ plus de confiance : répondre aux avis rassure\n→ plus de visibilité locale : une fiche active se remarque\n\n👉 Parlons de ta visibilité : wellwish.fr/contact\n\n#WELLWISH #agencedigitale #reseauxsociaux #communicationdigitale",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-18_B-70_Ta-fiche-Google-ton-premier-reseau-social/Instagram/B-70_Reel_v3_1080x1920_musique.mp4"
+    }
+   }
+  ],
+  "metadata": {
+   "facebook": {
+    "type": "reel"
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-71",
+  "net": "instagram",
+  "dueAt": "2026-12-18T18:30:00+01:00",
+  "text": "Une pub qui parle à ta zone.\n\nImagine : seules les personnes autour de chez toi voient ton annonce… celles qui peuvent venir.\n\nCe que ça change pour toi :\n→ un budget concentré : ta pub ne s’adresse qu’à ta zone\n→ des contacts utiles : ils sont à portée de toi\n→ une notoriété locale : on te voit dans ton secteur\n\n💾 Enregistre ce Reel · 👉 Parlons de tes campagnes : lien en bio\n\n#WELLWISH #agencedigitale #publicitedigitale #googleads #metaads #acquisition",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-18_B-71_Une-pub-qui-parle-a-ta-zone/Instagram/B-71_Reel_v3_1080x1920_musique.mp4",
+     "metadata": {
+      "thumbnailOffset": 2100
+     }
+    }
+   }
+  ],
+  "metadata": {
+   "instagram": {
+    "type": "reel",
+    "shouldShareToFeed": true
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-71",
+  "net": "facebook",
+  "dueAt": "2026-12-18T19:00:00+01:00",
+  "text": "Une pub qui parle à ta zone.\n\nImagine : seules les personnes autour de chez toi voient ton annonce… celles qui peuvent venir.\n\nCe que ça change pour toi :\n→ un budget concentré : ta pub ne s’adresse qu’à ta zone\n→ des contacts utiles : ils sont à portée de toi\n→ une notoriété locale : on te voit dans ton secteur\n\n👉 Parlons de tes campagnes : wellwish.fr/contact\n\n#WELLWISH #agencedigitale #publicitedigitale #googleads",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-18_B-71_Une-pub-qui-parle-a-ta-zone/Instagram/B-71_Reel_v3_1080x1920_musique.mp4"
+    }
+   }
+  ],
+  "metadata": {
+   "facebook": {
+    "type": "reel"
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-72",
+  "net": "instagram",
+  "dueAt": "2026-12-19T09:00:00+01:00",
+  "text": "Un ton qui te ressemble, sur tous tes supports.\n\nImagine : ton site, tes posts, tes emails : on reconnaît ta voix à chaque mot.\n\nCe que ça change pour toi :\n→ une marque attachante : on aime ta façon de parler\n→ plus de cohérence : chaque support parle d’une seule voix\n→ des clients proches : le ton crée la relation\n\n💾 Enregistre ce Reel · 👉 Construisons ta marque : lien en bio\n\n#WELLWISH #agencedigitale #branding #identitevisuelle #marque #entrepreneur",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-19_B-72_Un-ton-qui-te-ressemble-sur-tous-tes-supports/Instagram/B-72_Reel_v3_1080x1920_musique.mp4",
+     "metadata": {
+      "thumbnailOffset": 2100
+     }
+    }
+   }
+  ],
+  "metadata": {
+   "instagram": {
+    "type": "reel",
+    "shouldShareToFeed": true
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-72",
+  "net": "facebook",
+  "dueAt": "2026-12-19T09:30:00+01:00",
+  "text": "Un ton qui te ressemble, sur tous tes supports.\n\nImagine : ton site, tes posts, tes emails : on reconnaît ta voix à chaque mot.\n\nCe que ça change pour toi :\n→ une marque attachante : on aime ta façon de parler\n→ plus de cohérence : chaque support parle d’une seule voix\n→ des clients proches : le ton crée la relation\n\n👉 Construisons ta marque : wellwish.fr/contact\n\n#WELLWISH #agencedigitale #branding #identitevisuelle",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-19_B-72_Un-ton-qui-te-ressemble-sur-tous-tes-supports/Instagram/B-72_Reel_v3_1080x1920_musique.mp4"
+    }
+   }
+  ],
+  "metadata": {
+   "facebook": {
+    "type": "reel"
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-73",
+  "net": "instagram",
+  "dueAt": "2026-12-19T12:30:00+01:00",
+  "text": "Ton site est-il rapide sur mobile ?\n\nImagine : ton site s’ouvre en un instant sur téléphone… et ton visiteur reste.\n\nCe que ça change pour toi :\n→ moins de visiteurs perdus : ils restent au lieu de partir\n→ un meilleur référencement : google tient compte de la vitesse\n→ plus de contacts : un site fluide pousse à l’action\n\n💾 Enregistre ce Reel · 👉 Parlons de ton site : lien en bio\n\n#WELLWISH #agencedigitale #siteinternet #referencement #visibilite #entrepreneur",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-19_B-73_Ton-site-est-il-rapide-sur-mobile/Instagram/B-73_Reel_v3_1080x1920_musique.mp4",
+     "metadata": {
+      "thumbnailOffset": 2100
+     }
+    }
+   }
+  ],
+  "metadata": {
+   "instagram": {
+    "type": "reel",
+    "shouldShareToFeed": true
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-73",
+  "net": "facebook",
+  "dueAt": "2026-12-19T13:00:00+01:00",
+  "text": "Ton site est-il rapide sur mobile ?\n\nImagine : ton site s’ouvre en un instant sur téléphone… et ton visiteur reste.\n\nCe que ça change pour toi :\n→ moins de visiteurs perdus : ils restent au lieu de partir\n→ un meilleur référencement : google tient compte de la vitesse\n→ plus de contacts : un site fluide pousse à l’action\n\n👉 Parlons de ton site : wellwish.fr/contact\n\n#WELLWISH #agencedigitale #siteinternet #referencement",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-19_B-73_Ton-site-est-il-rapide-sur-mobile/Instagram/B-73_Reel_v3_1080x1920_musique.mp4"
+    }
+   }
+  ],
+  "metadata": {
+   "facebook": {
+    "type": "reel"
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-74",
+  "net": "instagram",
+  "dueAt": "2026-12-19T18:30:00+01:00",
+  "text": "Tes stories peuvent remplir ton agenda.\n\nImagine : une story, un sondage, une question… et des messages arrivent dans la journée.\n\nCe que ça change pour toi :\n→ plus d’interactions : tes abonnés te répondent\n→ une relation de proximité : on te voit au quotidien\n→ des demandes directes : les messages privés s’ouvrent\n\n💾 Enregistre ce Reel · 👉 Parlons de ta visibilité : lien en bio\n\n#WELLWISH #agencedigitale #viralite #reseauxsociaux #contenu #reels",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-19_B-74_Tes-stories-peuvent-remplir-ton-agenda/Instagram/B-74_Reel_v3_1080x1920_musique.mp4",
+     "metadata": {
+      "thumbnailOffset": 2100
+     }
+    }
+   }
+  ],
+  "metadata": {
+   "instagram": {
+    "type": "reel",
+    "shouldShareToFeed": true
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-74",
+  "net": "facebook",
+  "dueAt": "2026-12-19T19:00:00+01:00",
+  "text": "Tes stories peuvent remplir ton agenda.\n\nImagine : une story, un sondage, une question… et des messages arrivent dans la journée.\n\nCe que ça change pour toi :\n→ plus d’interactions : tes abonnés te répondent\n→ une relation de proximité : on te voit au quotidien\n→ des demandes directes : les messages privés s’ouvrent\n\n👉 Parlons de ta visibilité : wellwish.fr/contact\n\n#WELLWISH #agencedigitale #viralite #reseauxsociaux",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-19_B-74_Tes-stories-peuvent-remplir-ton-agenda/Instagram/B-74_Reel_v3_1080x1920_musique.mp4"
+    }
+   }
+  ],
+  "metadata": {
+   "facebook": {
+    "type": "reel"
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-75",
+  "net": "instagram",
+  "dueAt": "2026-12-20T09:00:00+01:00",
+  "text": "Arrête de perdre du temps sur des tâches répétitives.\n\nImagine : factures, relances, comptes rendus : tout part automatiquement. Tu te concentres sur tes clients.\n\nCe que ça change pour toi :\n→ du temps récupéré : l’automatisation fait le travail répétitif\n→ moins d’oublis : rien ne passe à la trappe\n→ une activité qui grandit : sans alourdir ta charge\n\n⚠️ Exemple illustratif : chaque solution est conçue à partir de ta situation réelle.\n\n💾 Enregistre ce Reel · 👉 Parlons de ton projet : lien en bio\n\n#WELLWISH #agencedigitale #webapp #intelligenceartificielle #automatisation #gaindetemps",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-20_B-75_Arrete-de-perdre-du-temps-sur-des-taches-repetit/Instagram/B-75_Reel_v3_1080x1920_musique.mp4",
+     "metadata": {
+      "thumbnailOffset": 2100
+     }
+    }
+   }
+  ],
+  "metadata": {
+   "instagram": {
+    "type": "reel",
+    "shouldShareToFeed": true
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-75",
+  "net": "facebook",
+  "dueAt": "2026-12-20T09:30:00+01:00",
+  "text": "Arrête de perdre du temps sur des tâches répétitives.\n\nImagine : factures, relances, comptes rendus : tout part automatiquement. Tu te concentres sur tes clients.\n\nCe que ça change pour toi :\n→ du temps récupéré : l’automatisation fait le travail répétitif\n→ moins d’oublis : rien ne passe à la trappe\n→ une activité qui grandit : sans alourdir ta charge\n\n⚠️ Exemple illustratif : chaque solution est conçue à partir de ta situation réelle.\n\n👉 Parlons de ton projet : wellwish.fr/contact\n\n#WELLWISH #agencedigitale #webapp #intelligenceartificielle",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-20_B-75_Arrete-de-perdre-du-temps-sur-des-taches-repetit/Instagram/B-75_Reel_v3_1080x1920_musique.mp4"
+    }
+   }
+  ],
+  "metadata": {
+   "facebook": {
+    "type": "reel"
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-76",
+  "net": "instagram",
+  "dueAt": "2026-12-20T12:30:00+01:00",
+  "text": "Fini la page blanche sur tes réseaux.\n\nImagine : ton calendrier éditorial est prêt. Tu sais quoi publier et quand.\n\nCe que ça change pour toi :\n→ moins de stress : tu ne cherches plus quoi dire\n→ une présence continue : ton compte reste actif\n→ un message cohérent : chaque post a un rôle\n\n💾 Enregistre ce Reel · 👉 Parlons de ta visibilité : lien en bio\n\n#WELLWISH #agencedigitale #viralite #reseauxsociaux #contenu #reels",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-20_B-76_Fini-la-page-blanche-sur-tes-reseaux/Instagram/B-76_Reel_v3_1080x1920_musique.mp4",
+     "metadata": {
+      "thumbnailOffset": 2100
+     }
+    }
+   }
+  ],
+  "metadata": {
+   "instagram": {
+    "type": "reel",
+    "shouldShareToFeed": true
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-76",
+  "net": "facebook",
+  "dueAt": "2026-12-20T13:00:00+01:00",
+  "text": "Fini la page blanche sur tes réseaux.\n\nImagine : ton calendrier éditorial est prêt. Tu sais quoi publier et quand.\n\nCe que ça change pour toi :\n→ moins de stress : tu ne cherches plus quoi dire\n→ une présence continue : ton compte reste actif\n→ un message cohérent : chaque post a un rôle\n\n👉 Parlons de ta visibilité : wellwish.fr/contact\n\n#WELLWISH #agencedigitale #viralite #reseauxsociaux",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-20_B-76_Fini-la-page-blanche-sur-tes-reseaux/Instagram/B-76_Reel_v3_1080x1920_musique.mp4"
+    }
+   }
+  ],
+  "metadata": {
+   "facebook": {
+    "type": "reel"
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-77",
+  "net": "instagram",
+  "dueAt": "2026-12-20T18:30:00+01:00",
+  "text": "Un panier oublié ? Rappelle-le gentiment.\n\nImagine : il a laissé son panier. Un message arrive au bon moment… et il finalise sa commande.\n\nCe que ça change pour toi :\n→ des ventes récupérées : sans chercher de nouveaux visiteurs\n→ un contact attentionné : le client se sent accompagné\n→ une relance automatique : elle part sans que tu y penses\n\n⚠️ Exemple illustratif : chaque solution est conçue à partir de ta situation réelle.\n\n💾 Enregistre ce Reel · 👉 Parlons de ta boutique : lien en bio\n\n#WELLWISH #agencedigitale #ecommerce #boutiqueenligne #ventes #ecommercant",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-20_B-77_Un-panier-oublie-Rappelle-le-gentiment/Instagram/B-77_Reel_v3_1080x1920_musique.mp4",
+     "metadata": {
+      "thumbnailOffset": 2100
+     }
+    }
+   }
+  ],
+  "metadata": {
+   "instagram": {
+    "type": "reel",
+    "shouldShareToFeed": true
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-77",
+  "net": "facebook",
+  "dueAt": "2026-12-20T19:00:00+01:00",
+  "text": "Un panier oublié ? Rappelle-le gentiment.\n\nImagine : il a laissé son panier. Un message arrive au bon moment… et il finalise sa commande.\n\nCe que ça change pour toi :\n→ des ventes récupérées : sans chercher de nouveaux visiteurs\n→ un contact attentionné : le client se sent accompagné\n→ une relance automatique : elle part sans que tu y penses\n\n⚠️ Exemple illustratif : chaque solution est conçue à partir de ta situation réelle.\n\n👉 Parlons de ta boutique : wellwish.fr/contact\n\n#WELLWISH #agencedigitale #ecommerce #boutiqueenligne",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-20_B-77_Un-panier-oublie-Rappelle-le-gentiment/Instagram/B-77_Reel_v3_1080x1920_musique.mp4"
+    }
+   }
+  ],
+  "metadata": {
+   "facebook": {
+    "type": "reel"
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-78",
+  "net": "instagram",
+  "dueAt": "2026-12-21T09:00:00+01:00",
+  "text": "Deviens la référence de ton métier sur les réseaux.\n\nImagine : quand on parle de ton métier, c’est ton compte qu’on recommande.\n\nCe que ça change pour toi :\n→ une crédibilité forte : tes conseils prouvent ton savoir-faire\n→ plus de recommandations : on partage les comptes utiles\n→ des clients convaincus : ils viennent pour ton expertise\n\n💾 Enregistre ce Reel · 👉 Parlons de ta visibilité : lien en bio\n\n#WELLWISH #agencedigitale #viralite #reseauxsociaux #contenu #reels",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-21_B-78_Deviens-la-reference-de-ton-metier-sur-les-resea/Instagram/B-78_Reel_v3_1080x1920_musique.mp4",
+     "metadata": {
+      "thumbnailOffset": 2100
+     }
+    }
+   }
+  ],
+  "metadata": {
+   "instagram": {
+    "type": "reel",
+    "shouldShareToFeed": true
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-78",
+  "net": "facebook",
+  "dueAt": "2026-12-21T09:30:00+01:00",
+  "text": "Deviens la référence de ton métier sur les réseaux.\n\nImagine : quand on parle de ton métier, c’est ton compte qu’on recommande.\n\nCe que ça change pour toi :\n→ une crédibilité forte : tes conseils prouvent ton savoir-faire\n→ plus de recommandations : on partage les comptes utiles\n→ des clients convaincus : ils viennent pour ton expertise\n\n👉 Parlons de ta visibilité : wellwish.fr/contact\n\n#WELLWISH #agencedigitale #viralite #reseauxsociaux",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-21_B-78_Deviens-la-reference-de-ton-metier-sur-les-resea/Instagram/B-78_Reel_v3_1080x1920_musique.mp4"
+    }
+   }
+  ],
+  "metadata": {
+   "facebook": {
+    "type": "reel"
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-79",
+  "net": "instagram",
+  "dueAt": "2026-12-21T12:30:00+01:00",
+  "text": "Ton Instagram, une vitrine qui vend.\n\nImagine : un abonné voit ton produit dans un post… et passe commande en quelques clics.\n\nCe que ça change pour toi :\n→ plus de ventes : l’envie se transforme en commande\n→ un parcours court : moins d’étapes, moins d’abandons\n→ des réseaux rentables : ta com devient un canal de vente\n\n⚠️ Exemple illustratif : chaque solution est conçue à partir de ta situation réelle.\n\n💾 Enregistre ce Reel · 👉 Parlons de ta visibilité : lien en bio\n\n#WELLWISH #agencedigitale #reseauxsociaux #communicationdigitale #visibilite #entrepreneur",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-21_B-79_Ton-Instagram-une-vitrine-qui-vend/Instagram/B-79_Reel_v3_1080x1920_musique.mp4",
+     "metadata": {
+      "thumbnailOffset": 2100
+     }
+    }
+   }
+  ],
+  "metadata": {
+   "instagram": {
+    "type": "reel",
+    "shouldShareToFeed": true
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-79",
+  "net": "facebook",
+  "dueAt": "2026-12-21T13:00:00+01:00",
+  "text": "Ton Instagram, une vitrine qui vend.\n\nImagine : un abonné voit ton produit dans un post… et passe commande en quelques clics.\n\nCe que ça change pour toi :\n→ plus de ventes : l’envie se transforme en commande\n→ un parcours court : moins d’étapes, moins d’abandons\n→ des réseaux rentables : ta com devient un canal de vente\n\n⚠️ Exemple illustratif : chaque solution est conçue à partir de ta situation réelle.\n\n👉 Parlons de ta visibilité : wellwish.fr/contact\n\n#WELLWISH #agencedigitale #reseauxsociaux #communicationdigitale",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-21_B-79_Ton-Instagram-une-vitrine-qui-vend/Instagram/B-79_Reel_v3_1080x1920_musique.mp4"
+    }
+   }
+  ],
+  "metadata": {
+   "facebook": {
+    "type": "reel"
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-80",
+  "net": "instagram",
+  "dueAt": "2026-12-21T18:30:00+01:00",
+  "text": "Ton meilleur Reel peut devenir ta meilleure pub.\n\nImagine : ton contenu qui plaît est sponsorisé… et touche bien plus de clients potentiels.\n\nCe que ça change pour toi :\n→ des pubs plus naturelles : elles ressemblent à du contenu\n→ plus de portée : ton contenu sort de ta communauté\n→ un message déjà validé : tu sponsorises ce qui plaît\n\n💾 Enregistre ce Reel · 👉 Parlons de tes campagnes : lien en bio\n\n#WELLWISH #agencedigitale #publicitedigitale #googleads #metaads #acquisition",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-21_B-80_Ton-meilleur-Reel-peut-devenir-ta-meilleure-pub/Instagram/B-80_Reel_v3_1080x1920_musique.mp4",
+     "metadata": {
+      "thumbnailOffset": 2100
+     }
+    }
+   }
+  ],
+  "metadata": {
+   "instagram": {
+    "type": "reel",
+    "shouldShareToFeed": true
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-80",
+  "net": "facebook",
+  "dueAt": "2026-12-21T19:00:00+01:00",
+  "text": "Ton meilleur Reel peut devenir ta meilleure pub.\n\nImagine : ton contenu qui plaît est sponsorisé… et touche bien plus de clients potentiels.\n\nCe que ça change pour toi :\n→ des pubs plus naturelles : elles ressemblent à du contenu\n→ plus de portée : ton contenu sort de ta communauté\n→ un message déjà validé : tu sponsorises ce qui plaît\n\n👉 Parlons de tes campagnes : wellwish.fr/contact\n\n#WELLWISH #agencedigitale #publicitedigitale #googleads",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-21_B-80_Ton-meilleur-Reel-peut-devenir-ta-meilleure-pub/Instagram/B-80_Reel_v3_1080x1920_musique.mp4"
+    }
+   }
+  ],
+  "metadata": {
+   "facebook": {
+    "type": "reel"
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-81",
+  "net": "instagram",
+  "dueAt": "2026-12-22T09:00:00+01:00",
+  "text": "Ta marque rafraîchie pour la nouvelle année.\n\nImagine : même ADN, nouveau regard : ta marque paraît plus actuelle dès janvier.\n\nCe que ça change pour toi :\n→ une image actuelle : tu montres que tu évolues\n→ une reconnaissance préservée : tes clients te retrouvent\n→ un nouvel élan : une occasion de reprendre la parole\n\n⚠️ Exemple illustratif : chaque solution est conçue à partir de ta situation réelle.\n\n💾 Enregistre ce Reel · 👉 Construisons ta marque : lien en bio\n\n#WELLWISH #agencedigitale #branding #identitevisuelle #marque #entrepreneur",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-22_B-81_Ta-marque-rafraichie-pour-la-nouvelle-annee/Instagram/B-81_Reel_v3_1080x1920_musique.mp4",
+     "metadata": {
+      "thumbnailOffset": 2100
+     }
+    }
+   }
+  ],
+  "metadata": {
+   "instagram": {
+    "type": "reel",
+    "shouldShareToFeed": true
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-81",
+  "net": "facebook",
+  "dueAt": "2026-12-22T09:30:00+01:00",
+  "text": "Ta marque rafraîchie pour la nouvelle année.\n\nImagine : même ADN, nouveau regard : ta marque paraît plus actuelle dès janvier.\n\nCe que ça change pour toi :\n→ une image actuelle : tu montres que tu évolues\n→ une reconnaissance préservée : tes clients te retrouvent\n→ un nouvel élan : une occasion de reprendre la parole\n\n⚠️ Exemple illustratif : chaque solution est conçue à partir de ta situation réelle.\n\n👉 Construisons ta marque : wellwish.fr/contact\n\n#WELLWISH #agencedigitale #branding #identitevisuelle",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-22_B-81_Ta-marque-rafraichie-pour-la-nouvelle-annee/Instagram/B-81_Reel_v3_1080x1920_musique.mp4"
+    }
+   }
+  ],
+  "metadata": {
+   "facebook": {
+    "type": "reel"
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-82",
+  "net": "instagram",
+  "dueAt": "2026-12-22T12:30:00+01:00",
+  "text": "Montre tes réalisations, pas seulement tes services.\n\nImagine : ton prospect parcourt tes projets… et se voit déjà parmi tes clients.\n\nCe que ça change pour toi :\n→ plus de crédibilité : ton travail parle pour toi\n→ un choix plus rapide : le prospect voit ce que tu sais faire\n→ des projets mieux ciblés : on vient pour ce que tu fais de mieux\n\n💾 Enregistre ce Reel · 👉 Parlons de ton site : lien en bio\n\n#WELLWISH #agencedigitale #siteinternet #referencement #visibilite #entrepreneur",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-22_B-82_Montre-tes-realisations-pas-seulement-tes-servic/Instagram/B-82_Reel_v3_1080x1920_musique.mp4",
+     "metadata": {
+      "thumbnailOffset": 2100
+     }
+    }
+   }
+  ],
+  "metadata": {
+   "instagram": {
+    "type": "reel",
+    "shouldShareToFeed": true
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-82",
+  "net": "facebook",
+  "dueAt": "2026-12-22T13:00:00+01:00",
+  "text": "Montre tes réalisations, pas seulement tes services.\n\nImagine : ton prospect parcourt tes projets… et se voit déjà parmi tes clients.\n\nCe que ça change pour toi :\n→ plus de crédibilité : ton travail parle pour toi\n→ un choix plus rapide : le prospect voit ce que tu sais faire\n→ des projets mieux ciblés : on vient pour ce que tu fais de mieux\n\n👉 Parlons de ton site : wellwish.fr/contact\n\n#WELLWISH #agencedigitale #siteinternet #referencement",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-22_B-82_Montre-tes-realisations-pas-seulement-tes-servic/Instagram/B-82_Reel_v3_1080x1920_musique.mp4"
+    }
+   }
+  ],
+  "metadata": {
+   "facebook": {
+    "type": "reel"
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-83",
+  "net": "instagram",
+  "dueAt": "2026-12-22T18:30:00+01:00",
+  "text": "Mets un visage sur ton entreprise.\n\nImagine : tu parles face caméra… et tes abonnés ont l’impression de te connaître déjà.\n\nCe que ça change pour toi :\n→ plus de confiance : on sait à qui on parle\n→ un lien plus fort : tes abonnés s’attachent à toi\n→ un premier contact facile : on ose t’écrire\n\n💾 Enregistre ce Reel · 👉 Parlons de ta visibilité : lien en bio\n\n#WELLWISH #agencedigitale #viralite #reseauxsociaux #contenu #reels",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-22_B-83_Mets-un-visage-sur-ton-entreprise/Instagram/B-83_Reel_v3_1080x1920_musique.mp4",
+     "metadata": {
+      "thumbnailOffset": 2100
+     }
+    }
+   }
+  ],
+  "metadata": {
+   "instagram": {
+    "type": "reel",
+    "shouldShareToFeed": true
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-83",
+  "net": "facebook",
+  "dueAt": "2026-12-22T19:00:00+01:00",
+  "text": "Mets un visage sur ton entreprise.\n\nImagine : tu parles face caméra… et tes abonnés ont l’impression de te connaître déjà.\n\nCe que ça change pour toi :\n→ plus de confiance : on sait à qui on parle\n→ un lien plus fort : tes abonnés s’attachent à toi\n→ un premier contact facile : on ose t’écrire\n\n👉 Parlons de ta visibilité : wellwish.fr/contact\n\n#WELLWISH #agencedigitale #viralite #reseauxsociaux",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-22_B-83_Mets-un-visage-sur-ton-entreprise/Instagram/B-83_Reel_v3_1080x1920_musique.mp4"
+    }
+   }
+  ],
+  "metadata": {
+   "facebook": {
+    "type": "reel"
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-84",
+  "net": "instagram",
+  "dueAt": "2026-12-23T09:00:00+01:00",
+  "text": "Retrouve n’importe quelle info en une question.\n\nImagine : tu demandes un délai à ton assistant… et la réponse arrive, tirée de tes propres documents.\n\nCe que ça change pour toi :\n→ du temps gagné : plus besoin de fouiller\n→ une équipe autonome : chacun trouve l’info seul\n→ un savoir préservé : rien ne se perd\n\n⚠️ Exemple illustratif : chaque solution est conçue à partir de ta situation réelle.\n\n💾 Enregistre ce Reel · 👉 Parlons de ton projet : lien en bio\n\n#WELLWISH #agencedigitale #webapp #intelligenceartificielle #automatisation #gaindetemps",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-23_B-84_Retrouve-n-importe-quelle-info-en-une-question/Instagram/B-84_Reel_v3_1080x1920_musique.mp4",
+     "metadata": {
+      "thumbnailOffset": 2100
+     }
+    }
+   }
+  ],
+  "metadata": {
+   "instagram": {
+    "type": "reel",
+    "shouldShareToFeed": true
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-84",
+  "net": "facebook",
+  "dueAt": "2026-12-23T09:30:00+01:00",
+  "text": "Retrouve n’importe quelle info en une question.\n\nImagine : tu demandes un délai à ton assistant… et la réponse arrive, tirée de tes propres documents.\n\nCe que ça change pour toi :\n→ du temps gagné : plus besoin de fouiller\n→ une équipe autonome : chacun trouve l’info seul\n→ un savoir préservé : rien ne se perd\n\n⚠️ Exemple illustratif : chaque solution est conçue à partir de ta situation réelle.\n\n👉 Parlons de ton projet : wellwish.fr/contact\n\n#WELLWISH #agencedigitale #webapp #intelligenceartificielle",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-23_B-84_Retrouve-n-importe-quelle-info-en-une-question/Instagram/B-84_Reel_v3_1080x1920_musique.mp4"
+    }
+   }
+  ],
+  "metadata": {
+   "facebook": {
+    "type": "reel"
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-85",
+  "net": "instagram",
+  "dueAt": "2026-12-23T12:30:00+01:00",
+  "text": "Le carrousel qu’on enregistre et qu’on partage.\n\nImagine : tes conseils en quelques slides… enregistrés, envoyés à un ami, partagés en story.\n\nCe que ça change pour toi :\n→ plus d’enregistrements : ton contenu devient une référence\n→ plus de partages : un contenu utile se transmet\n→ plus d’attention : on lit jusqu’à la dernière slide\n\n💾 Enregistre ce Reel · 👉 Parlons de ta visibilité : lien en bio\n\n#WELLWISH #agencedigitale #viralite #reseauxsociaux #contenu #reels",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-23_B-85_Le-carrousel-qu-on-enregistre-et-qu-on-partage/Instagram/B-85_Reel_v3_1080x1920_musique.mp4",
+     "metadata": {
+      "thumbnailOffset": 2100
+     }
+    }
+   }
+  ],
+  "metadata": {
+   "instagram": {
+    "type": "reel",
+    "shouldShareToFeed": true
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-85",
+  "net": "facebook",
+  "dueAt": "2026-12-23T13:00:00+01:00",
+  "text": "Le carrousel qu’on enregistre et qu’on partage.\n\nImagine : tes conseils en quelques slides… enregistrés, envoyés à un ami, partagés en story.\n\nCe que ça change pour toi :\n→ plus d’enregistrements : ton contenu devient une référence\n→ plus de partages : un contenu utile se transmet\n→ plus d’attention : on lit jusqu’à la dernière slide\n\n👉 Parlons de ta visibilité : wellwish.fr/contact\n\n#WELLWISH #agencedigitale #viralite #reseauxsociaux",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-23_B-85_Le-carrousel-qu-on-enregistre-et-qu-on-partage/Instagram/B-85_Reel_v3_1080x1920_musique.mp4"
+    }
+   }
+  ],
+  "metadata": {
+   "facebook": {
+    "type": "reel"
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-86",
+  "net": "instagram",
+  "dueAt": "2026-12-23T18:30:00+01:00",
+  "text": "Une boutique qui a l’allure d’une marque.\n\nImagine : ton client arrive sur ta boutique… et a l’impression d’entrer dans une grande enseigne.\n\nCe que ça change pour toi :\n→ plus de confiance : une boutique soignée rassure\n→ une meilleure valeur perçue : tes produits paraissent plus premium\n→ des clients fidèles : on revient vers une marque qu’on aime\n\n💾 Enregistre ce Reel · 👉 Parlons de ta boutique : lien en bio\n\n#WELLWISH #agencedigitale #ecommerce #boutiqueenligne #ventes #ecommercant",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-23_B-86_Une-boutique-qui-a-l-allure-d-une-marque/Instagram/B-86_Reel_v3_1080x1920_musique.mp4",
+     "metadata": {
+      "thumbnailOffset": 2100
+     }
+    }
+   }
+  ],
+  "metadata": {
+   "instagram": {
+    "type": "reel",
+    "shouldShareToFeed": true
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-86",
+  "net": "facebook",
+  "dueAt": "2026-12-23T19:00:00+01:00",
+  "text": "Une boutique qui a l’allure d’une marque.\n\nImagine : ton client arrive sur ta boutique… et a l’impression d’entrer dans une grande enseigne.\n\nCe que ça change pour toi :\n→ plus de confiance : une boutique soignée rassure\n→ une meilleure valeur perçue : tes produits paraissent plus premium\n→ des clients fidèles : on revient vers une marque qu’on aime\n\n👉 Parlons de ta boutique : wellwish.fr/contact\n\n#WELLWISH #agencedigitale #ecommerce #boutiqueenligne",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-23_B-86_Une-boutique-qui-a-l-allure-d-une-marque/Instagram/B-86_Reel_v3_1080x1920_musique.mp4"
+    }
+   }
+  ],
+  "metadata": {
+   "facebook": {
+    "type": "reel"
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-87",
+  "net": "instagram",
+  "dueAt": "2026-12-24T09:00:00+01:00",
+  "text": "Un contenu qui a marché ? Donne-lui une 2e vie.\n\nImagine : ton meilleur post revient sous un nouveau format… et touche de nouvelles personnes.\n\nCe que ça change pour toi :\n→ moins d’efforts : tu pars de ce qui a déjà marché\n→ plus de portée : nouveau format, nouveau public\n→ un message renforcé : tes idées clés reviennent\n\n💾 Enregistre ce Reel · 👉 Parlons de ta visibilité : lien en bio\n\n#WELLWISH #agencedigitale #viralite #reseauxsociaux #contenu #reels",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-24_B-87_Un-contenu-qui-a-marche-Donne-lui-une-2e-vie/Instagram/B-87_Reel_v3_1080x1920_musique.mp4",
+     "metadata": {
+      "thumbnailOffset": 2100
+     }
+    }
+   }
+  ],
+  "metadata": {
+   "instagram": {
+    "type": "reel",
+    "shouldShareToFeed": true
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-87",
+  "net": "facebook",
+  "dueAt": "2026-12-24T09:30:00+01:00",
+  "text": "Un contenu qui a marché ? Donne-lui une 2e vie.\n\nImagine : ton meilleur post revient sous un nouveau format… et touche de nouvelles personnes.\n\nCe que ça change pour toi :\n→ moins d’efforts : tu pars de ce qui a déjà marché\n→ plus de portée : nouveau format, nouveau public\n→ un message renforcé : tes idées clés reviennent\n\n👉 Parlons de ta visibilité : wellwish.fr/contact\n\n#WELLWISH #agencedigitale #viralite #reseauxsociaux",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-24_B-87_Un-contenu-qui-a-marche-Donne-lui-une-2e-vie/Instagram/B-87_Reel_v3_1080x1920_musique.mp4"
+    }
+   }
+  ],
+  "metadata": {
+   "facebook": {
+    "type": "reel"
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-88",
+  "net": "instagram",
+  "dueAt": "2026-12-24T12:30:00+01:00",
+  "text": "Tes réseaux : un bilan clair chaque mois.\n\nImagine : tu reçois un point simple : ce qui a marché, ce qui progresse, ce qu’on fait ensuite.\n\nCe que ça change pour toi :\n→ des décisions simples : tu sais quoi garder\n→ des contenus qui progressent : on s’appuie sur ce qui marche\n→ l’esprit tranquille : tu suis sans y passer de temps\n\n💾 Enregistre ce Reel · 👉 Parlons de ta visibilité : lien en bio\n\n#WELLWISH #agencedigitale #reseauxsociaux #communicationdigitale #visibilite #entrepreneur",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-24_B-88_Tes-reseaux-un-bilan-clair-chaque-mois/Instagram/B-88_Reel_v3_1080x1920_musique.mp4",
+     "metadata": {
+      "thumbnailOffset": 2100
+     }
+    }
+   }
+  ],
+  "metadata": {
+   "instagram": {
+    "type": "reel",
+    "shouldShareToFeed": true
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-88",
+  "net": "facebook",
+  "dueAt": "2026-12-24T13:00:00+01:00",
+  "text": "Tes réseaux : un bilan clair chaque mois.\n\nImagine : tu reçois un point simple : ce qui a marché, ce qui progresse, ce qu’on fait ensuite.\n\nCe que ça change pour toi :\n→ des décisions simples : tu sais quoi garder\n→ des contenus qui progressent : on s’appuie sur ce qui marche\n→ l’esprit tranquille : tu suis sans y passer de temps\n\n👉 Parlons de ta visibilité : wellwish.fr/contact\n\n#WELLWISH #agencedigitale #reseauxsociaux #communicationdigitale",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-24_B-88_Tes-reseaux-un-bilan-clair-chaque-mois/Instagram/B-88_Reel_v3_1080x1920_musique.mp4"
+    }
+   }
+  ],
+  "metadata": {
+   "facebook": {
+    "type": "reel"
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-89",
+  "net": "instagram",
+  "dueAt": "2026-12-24T18:30:00+01:00",
+  "text": "Tes campagnes suivies sans y passer tes soirées.\n\nImagine : chaque semaine, tes campagnes sont ajustées… et tu reçois un point clair.\n\nCe que ça change pour toi :\n→ du temps libéré : tu n’as plus à tout surveiller\n→ un budget optimisé : les réglages suivent les résultats\n→ une vision claire : tu sais ce qui fonctionne\n\n💾 Enregistre ce Reel · 👉 Parlons de tes campagnes : lien en bio\n\n#WELLWISH #agencedigitale #publicitedigitale #googleads #metaads #acquisition",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-24_B-89_Tes-campagnes-suivies-sans-y-passer-tes-soirees/Instagram/B-89_Reel_v3_1080x1920_musique.mp4",
+     "metadata": {
+      "thumbnailOffset": 2100
+     }
+    }
+   }
+  ],
+  "metadata": {
+   "instagram": {
+    "type": "reel",
+    "shouldShareToFeed": true
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-89",
+  "net": "facebook",
+  "dueAt": "2026-12-24T19:00:00+01:00",
+  "text": "Tes campagnes suivies sans y passer tes soirées.\n\nImagine : chaque semaine, tes campagnes sont ajustées… et tu reçois un point clair.\n\nCe que ça change pour toi :\n→ du temps libéré : tu n’as plus à tout surveiller\n→ un budget optimisé : les réglages suivent les résultats\n→ une vision claire : tu sais ce qui fonctionne\n\n👉 Parlons de tes campagnes : wellwish.fr/contact\n\n#WELLWISH #agencedigitale #publicitedigitale #googleads",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-24_B-89_Tes-campagnes-suivies-sans-y-passer-tes-soirees/Instagram/B-89_Reel_v3_1080x1920_musique.mp4"
+    }
+   }
+  ],
+  "metadata": {
+   "facebook": {
+    "type": "reel"
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-90",
+  "net": "instagram",
+  "dueAt": "2026-12-25T09:00:00+01:00",
+  "text": "Des modèles prêts : un post pro en quelques minutes.\n\nImagine : tu ouvres ton modèle, tu changes le texte… et ton post est prêt et à ton image.\n\nCe que ça change pour toi :\n→ du temps gagné : plus besoin de repartir de zéro\n→ une image cohérente : chaque visuel respecte ta marque\n→ plus d’autonomie : tu publies quand tu veux\n\n💾 Enregistre ce Reel · 👉 Construisons ta marque : lien en bio\n\n#WELLWISH #agencedigitale #branding #identitevisuelle #marque #entrepreneur",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-25_B-90_Des-modeles-prets-un-post-pro-en-quelques-minute/Instagram/B-90_Reel_v3_1080x1920_musique.mp4",
+     "metadata": {
+      "thumbnailOffset": 2100
+     }
+    }
+   }
+  ],
+  "metadata": {
+   "instagram": {
+    "type": "reel",
+    "shouldShareToFeed": true
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-90",
+  "net": "facebook",
+  "dueAt": "2026-12-25T09:30:00+01:00",
+  "text": "Des modèles prêts : un post pro en quelques minutes.\n\nImagine : tu ouvres ton modèle, tu changes le texte… et ton post est prêt et à ton image.\n\nCe que ça change pour toi :\n→ du temps gagné : plus besoin de repartir de zéro\n→ une image cohérente : chaque visuel respecte ta marque\n→ plus d’autonomie : tu publies quand tu veux\n\n👉 Construisons ta marque : wellwish.fr/contact\n\n#WELLWISH #agencedigitale #branding #identitevisuelle",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-25_B-90_Des-modeles-prets-un-post-pro-en-quelques-minute/Instagram/B-90_Reel_v3_1080x1920_musique.mp4"
+    }
+   }
+  ],
+  "metadata": {
+   "facebook": {
+    "type": "reel"
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-91",
+  "net": "instagram",
+  "dueAt": "2026-12-25T12:30:00+01:00",
+  "text": "Ton site prêt pour la nouvelle année ?\n\nImagine : janvier arrive. Tes prospects cherchent un prestataire… et trouvent ton site à jour.\n\nCe que ça change pour toi :\n→ une rentrée réussie : tu es visible quand les projets repartent\n→ une image actuelle : ton site montre ton activité du moment\n→ plus d’opportunités : tu captes les projets de début d’année\n\n💾 Enregistre ce Reel · 👉 Parlons de ton site : lien en bio\n\n#WELLWISH #agencedigitale #siteinternet #referencement #visibilite #entrepreneur",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-25_B-91_Ton-site-pret-pour-la-nouvelle-annee/Instagram/B-91_Reel_v3_1080x1920_musique.mp4",
+     "metadata": {
+      "thumbnailOffset": 2100
+     }
+    }
+   }
+  ],
+  "metadata": {
+   "instagram": {
+    "type": "reel",
+    "shouldShareToFeed": true
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-91",
+  "net": "facebook",
+  "dueAt": "2026-12-25T13:00:00+01:00",
+  "text": "Ton site prêt pour la nouvelle année ?\n\nImagine : janvier arrive. Tes prospects cherchent un prestataire… et trouvent ton site à jour.\n\nCe que ça change pour toi :\n→ une rentrée réussie : tu es visible quand les projets repartent\n→ une image actuelle : ton site montre ton activité du moment\n→ plus d’opportunités : tu captes les projets de début d’année\n\n👉 Parlons de ton site : wellwish.fr/contact\n\n#WELLWISH #agencedigitale #siteinternet #referencement",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-25_B-91_Ton-site-pret-pour-la-nouvelle-annee/Instagram/B-91_Reel_v3_1080x1920_musique.mp4"
+    }
+   }
+  ],
+  "metadata": {
+   "facebook": {
+    "type": "reel"
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-92",
+  "net": "instagram",
+  "dueAt": "2026-12-25T18:30:00+01:00",
+  "text": "Une collaboration peut t’ouvrir tout un public.\n\nImagine : un partenaire de ton secteur partage ton contenu… et sa communauté te découvre.\n\nCe que ça change pour toi :\n→ une nouvelle audience : tu touches le public de ton partenaire\n→ une crédibilité partagée : la recommandation rassure\n→ plus de visibilité : deux comptes valent mieux qu’un\n\n💾 Enregistre ce Reel · 👉 Parlons de ta visibilité : lien en bio\n\n#WELLWISH #agencedigitale #viralite #reseauxsociaux #contenu #reels",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-25_B-92_Une-collaboration-peut-t-ouvrir-tout-un-public/Instagram/B-92_Reel_v3_1080x1920_musique.mp4",
+     "metadata": {
+      "thumbnailOffset": 2100
+     }
+    }
+   }
+  ],
+  "metadata": {
+   "instagram": {
+    "type": "reel",
+    "shouldShareToFeed": true
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-92",
+  "net": "facebook",
+  "dueAt": "2026-12-25T19:00:00+01:00",
+  "text": "Une collaboration peut t’ouvrir tout un public.\n\nImagine : un partenaire de ton secteur partage ton contenu… et sa communauté te découvre.\n\nCe que ça change pour toi :\n→ une nouvelle audience : tu touches le public de ton partenaire\n→ une crédibilité partagée : la recommandation rassure\n→ plus de visibilité : deux comptes valent mieux qu’un\n\n👉 Parlons de ta visibilité : wellwish.fr/contact\n\n#WELLWISH #agencedigitale #viralite #reseauxsociaux",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-25_B-92_Une-collaboration-peut-t-ouvrir-tout-un-public/Instagram/B-92_Reel_v3_1080x1920_musique.mp4"
+    }
+   }
+  ],
+  "metadata": {
+   "facebook": {
+    "type": "reel"
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-93",
+  "net": "instagram",
+  "dueAt": "2026-12-26T09:00:00+01:00",
+  "text": "Toutes tes données au même endroit, enfin.\n\nImagine : clients, devis, factures : une seule source, à jour, accessible partout.\n\nCe que ça change pour toi :\n→ moins d’erreurs : une seule version qui fait foi\n→ plus de sérénité : tes données sont sauvegardées\n→ des décisions éclairées : tu pilotes avec des chiffres justes\n\n⚠️ Exemple illustratif : chaque solution est conçue à partir de ta situation réelle.\n\n💾 Enregistre ce Reel · 👉 Parlons de ton projet : lien en bio\n\n#WELLWISH #agencedigitale #webapp #intelligenceartificielle #automatisation #gaindetemps",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-26_B-93_Toutes-tes-donnees-au-meme-endroit-enfin/Instagram/B-93_Reel_v3_1080x1920_musique.mp4",
+     "metadata": {
+      "thumbnailOffset": 2100
+     }
+    }
+   }
+  ],
+  "metadata": {
+   "instagram": {
+    "type": "reel",
+    "shouldShareToFeed": true
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-93",
+  "net": "facebook",
+  "dueAt": "2026-12-26T09:30:00+01:00",
+  "text": "Toutes tes données au même endroit, enfin.\n\nImagine : clients, devis, factures : une seule source, à jour, accessible partout.\n\nCe que ça change pour toi :\n→ moins d’erreurs : une seule version qui fait foi\n→ plus de sérénité : tes données sont sauvegardées\n→ des décisions éclairées : tu pilotes avec des chiffres justes\n\n⚠️ Exemple illustratif : chaque solution est conçue à partir de ta situation réelle.\n\n👉 Parlons de ton projet : wellwish.fr/contact\n\n#WELLWISH #agencedigitale #webapp #intelligenceartificielle",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-26_B-93_Toutes-tes-donnees-au-meme-endroit-enfin/Instagram/B-93_Reel_v3_1080x1920_musique.mp4"
+    }
+   }
+  ],
+  "metadata": {
+   "facebook": {
+    "type": "reel"
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-94",
+  "net": "instagram",
+  "dueAt": "2026-12-26T12:30:00+01:00",
+  "text": "Publie souvent, sans risque pour ton image.\n\nImagine : chaque post est relu, cohérent, à ton image. Tu publies l’esprit tranquille.\n\nCe que ça change pour toi :\n→ une image protégée : rien ne part sans être vérifié\n→ plus de crédibilité : un compte soigné inspire confiance\n→ l’esprit tranquille : tu n’as plus à tout vérifier\n\n💾 Enregistre ce Reel · 👉 Parlons de ta visibilité : lien en bio\n\n#WELLWISH #agencedigitale #viralite #reseauxsociaux #contenu #reels",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-26_B-94_Publie-souvent-sans-risque-pour-ton-image/Instagram/B-94_Reel_v3_1080x1920_musique.mp4",
+     "metadata": {
+      "thumbnailOffset": 2100
+     }
+    }
+   }
+  ],
+  "metadata": {
+   "instagram": {
+    "type": "reel",
+    "shouldShareToFeed": true
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-94",
+  "net": "facebook",
+  "dueAt": "2026-12-26T13:00:00+01:00",
+  "text": "Publie souvent, sans risque pour ton image.\n\nImagine : chaque post est relu, cohérent, à ton image. Tu publies l’esprit tranquille.\n\nCe que ça change pour toi :\n→ une image protégée : rien ne part sans être vérifié\n→ plus de crédibilité : un compte soigné inspire confiance\n→ l’esprit tranquille : tu n’as plus à tout vérifier\n\n👉 Parlons de ta visibilité : wellwish.fr/contact\n\n#WELLWISH #agencedigitale #viralite #reseauxsociaux",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-26_B-94_Publie-souvent-sans-risque-pour-ton-image/Instagram/B-94_Reel_v3_1080x1920_musique.mp4"
+    }
+   }
+  ],
+  "metadata": {
+   "facebook": {
+    "type": "reel"
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-95",
+  "net": "instagram",
+  "dueAt": "2026-12-26T18:30:00+01:00",
+  "text": "Propose le bon produit à chaque client.\n\nImagine : ton client regarde un article… et découvre le complément idéal juste en dessous.\n\nCe que ça change pour toi :\n→ un panier plus complet : le client trouve ce qui va avec\n→ une expérience personnalisée : il se sent conseillé\n→ plus de ventes : avec le même nombre de visiteurs\n\n⚠️ Exemple illustratif : chaque solution est conçue à partir de ta situation réelle.\n\n💾 Enregistre ce Reel · 👉 Parlons de ta boutique : lien en bio\n\n#WELLWISH #agencedigitale #ecommerce #boutiqueenligne #ventes #ecommercant",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-26_B-95_Propose-le-bon-produit-a-chaque-client/Instagram/B-95_Reel_v3_1080x1920_musique.mp4",
+     "metadata": {
+      "thumbnailOffset": 2100
+     }
+    }
+   }
+  ],
+  "metadata": {
+   "instagram": {
+    "type": "reel",
+    "shouldShareToFeed": true
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-95",
+  "net": "facebook",
+  "dueAt": "2026-12-26T19:00:00+01:00",
+  "text": "Propose le bon produit à chaque client.\n\nImagine : ton client regarde un article… et découvre le complément idéal juste en dessous.\n\nCe que ça change pour toi :\n→ un panier plus complet : le client trouve ce qui va avec\n→ une expérience personnalisée : il se sent conseillé\n→ plus de ventes : avec le même nombre de visiteurs\n\n⚠️ Exemple illustratif : chaque solution est conçue à partir de ta situation réelle.\n\n👉 Parlons de ta boutique : wellwish.fr/contact\n\n#WELLWISH #agencedigitale #ecommerce #boutiqueenligne",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-26_B-95_Propose-le-bon-produit-a-chaque-client/Instagram/B-95_Reel_v3_1080x1920_musique.mp4"
+    }
+   }
+  ],
+  "metadata": {
+   "facebook": {
+    "type": "reel"
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-96",
+  "net": "instagram",
+  "dueAt": "2026-12-27T09:00:00+01:00",
+  "text": "Partage les valeurs de ton entreprise.\n\nImagine : tes abonnés découvrent ce en quoi tu crois… et choisissent de te soutenir.\n\nCe que ça change pour toi :\n→ une marque attachante : on s’identifie à toi\n→ des clients fidèles : on reste avec ceux qui nous ressemblent\n→ plus de partages : on relaie ce en quoi on croit\n\n💾 Enregistre ce Reel · 👉 Parlons de ta visibilité : lien en bio\n\n#WELLWISH #agencedigitale #reseauxsociaux #communicationdigitale #visibilite #entrepreneur",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-27_B-96_Partage-les-valeurs-de-ton-entreprise/Instagram/B-96_Reel_v3_1080x1920_musique.mp4",
+     "metadata": {
+      "thumbnailOffset": 2100
+     }
+    }
+   }
+  ],
+  "metadata": {
+   "instagram": {
+    "type": "reel",
+    "shouldShareToFeed": true
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-96",
+  "net": "facebook",
+  "dueAt": "2026-12-27T09:30:00+01:00",
+  "text": "Partage les valeurs de ton entreprise.\n\nImagine : tes abonnés découvrent ce en quoi tu crois… et choisissent de te soutenir.\n\nCe que ça change pour toi :\n→ une marque attachante : on s’identifie à toi\n→ des clients fidèles : on reste avec ceux qui nous ressemblent\n→ plus de partages : on relaie ce en quoi on croit\n\n👉 Parlons de ta visibilité : wellwish.fr/contact\n\n#WELLWISH #agencedigitale #reseauxsociaux #communicationdigitale",
+  "assets": [
+   {
+    "video": {
+     "url": "https://raw.githubusercontent.com/Taat-saas/WELLWISH_Social-Media_Campagne-01/main/03_Reels_Benefices/2026-12-27_B-96_Partage-les-valeurs-de-ton-entreprise/Instagram/B-96_Reel_v3_1080x1920_musique.mp4"
+    }
+   }
+  ],
+  "metadata": {
+   "facebook": {
+    "type": "reel"
+   }
+  },
+  "statut": "à créer"
+ },
+ {
+  "id": "B-53",
+  "net": "instagram",
+  "dueAt": "2026-12-27T12:30:00+01:00",
   "text": "Ton digital t’a-t-il apporté des clients cette année ?\n\nImagine : tu fais le point… et tu sais exactement quoi améliorer l’an prochain.\n\nCe que ça change pour toi :\n→ des priorités claires : tu sais où concentrer tes efforts\n→ un budget mieux utilisé : tu investis dans ce qui rapporte\n→ une année plus sereine : un cap défini dès janvier\n\n💾 Enregistre ce Reel · 👉 Parlons de ton projet : lien en bio\n\n#WELLWISH #agencedigitale #marketingdigital #entrepreneur #TPE #PME",
   "assets": [
    {
@@ -2209,7 +3973,7 @@
  {
   "id": "B-53",
   "net": "facebook",
-  "dueAt": "2026-12-13T13:00:00+01:00",
+  "dueAt": "2026-12-27T13:00:00+01:00",
   "text": "Ton digital t’a-t-il apporté des clients cette année ?\n\nImagine : tu fais le point… et tu sais exactement quoi améliorer l’an prochain.\n\nCe que ça change pour toi :\n→ des priorités claires : tu sais où concentrer tes efforts\n→ un budget mieux utilisé : tu investis dans ce qui rapporte\n→ une année plus sereine : un cap défini dès janvier\n\n👉 Parlons de ton projet : wellwish.fr/contact\n\n#WELLWISH #agencedigitale #marketingdigital #entrepreneur",
   "assets": [
    {
@@ -2228,7 +3992,7 @@
  {
   "id": "B-54",
   "net": "instagram",
-  "dueAt": "2026-12-13T18:30:00+01:00",
+  "dueAt": "2026-12-27T18:30:00+01:00",
   "text": "2027 : plus visible, plus de clients, plus de temps.\n\nImagine : dans un an, ton site t’apporte des demandes, tes réseaux vivent et tu as repris du temps.\n\nCe que ça change pour toi :\n→ plus de visibilité : un site et des réseaux qui travaillent\n→ plus de clients : une présence qui génère des demandes\n→ plus de temps : les tâches répétitives automatisées\n\n💾 Enregistre ce Reel · 👉 Parlons de ton projet : lien en bio\n\n#WELLWISH #agencedigitale #marketingdigital #entrepreneur #TPE #PME",
   "assets": [
    {
@@ -2251,7 +4015,7 @@
  {
   "id": "B-54",
   "net": "facebook",
-  "dueAt": "2026-12-13T19:00:00+01:00",
+  "dueAt": "2026-12-27T19:00:00+01:00",
   "text": "2027 : plus visible, plus de clients, plus de temps.\n\nImagine : dans un an, ton site t’apporte des demandes, tes réseaux vivent et tu as repris du temps.\n\nCe que ça change pour toi :\n→ plus de visibilité : un site et des réseaux qui travaillent\n→ plus de clients : une présence qui génère des demandes\n→ plus de temps : les tâches répétitives automatisées\n\n👉 Parlons de ton projet : wellwish.fr/contact\n\n#WELLWISH #agencedigitale #marketingdigital #entrepreneur",
   "assets": [
    {
