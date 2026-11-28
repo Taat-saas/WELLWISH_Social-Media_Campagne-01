@@ -1,7 +1,7 @@
 # WELLWISH — Série Bénéfices · 44 Reels
 
 Approche validée le 25/11/2026 : méthode SONCAS + CAB. On parle de ce que le client gagne (visibilité, clients, opportunités, temps), pas du produit.
-3 Reels par jour ouvré sur Instagram (9 h · 12 h 30 · 18 h 30) et Facebook (9 h 30 · 13 h · 19 h), du 27 novembre au 17 décembre 2026.
+3 Reels par jour, 7 jours sur 7 (décision du 28/11) — Instagram 9 h · 12 h 30 · 18 h 30, Facebook 30 min après. Les dates dans les noms de dossiers sont celles du plan initial ; le calendrier ci-dessous fait foi.
 Structure : accroche bénéfice → « Imagine » → avant/après → 3 gains → appel à l'action. Démonstrations = exemples illustratifs.
 
 | Date | Heure IG | ID | Univers | Levier SONCAS | Accroche |
@@ -13,50 +13,50 @@ Structure : accroche bénéfice → « Imagine » → avant/après → 3 gains �
 | 2026-11-27 | 12:30 | B-05 | Publicité | Argent | Chaque euro de pub doit te rapporter. |
 | 2026-11-27 | 18:30 | B-06 | Marque | Orgueil | Une marque dont tu es fier. |
 | 2026-11-30 | 09:00 | B-07 | WELLWISH | Confort | Un seul interlocuteur pour tout ton digital. |
-| 2026-11-30 | 12:30 | B-08 | Site web | Argent | Ton site peut vendre pendant que tu dors. |
-| 2026-11-30 | 18:30 | B-09 | Web app · IA | Nouveauté | Et si ton prochain collaborateur était une IA ? |
-| 2026-12-01 | 09:00 | B-10 | Réseaux sociaux | Orgueil | Un Instagram qui donne envie de te contacter. |
-| 2026-12-01 | 12:30 | B-11 | E-commerce | Sécurité | Des fiches produits qui rassurent… et qui vendent. |
-| 2026-12-01 | 18:30 | B-12 | Publicité | Argent | Sois là au moment exact où l’on te cherche. |
-| 2026-12-02 | 09:00 | B-13 | Marque | Argent | Une image forte te fait vendre mieux. |
-| 2026-12-02 | 12:30 | B-14 | Viralité · Contenu | Orgueil | Un contenu qu’on a envie de partager. |
-| 2026-12-02 | 18:30 | B-15 | Site web | Orgueil | Ton site donne-t-il envie de te choisir ? |
-| 2026-12-03 | 09:00 | B-16 | Web app · IA | Argent | Envoie tes devis avant tes concurrents. |
-| 2026-12-03 | 12:30 | B-17 | Réseaux sociaux | Confort | Ton mois de contenu, prêt d’avance. |
-| 2026-12-03 | 18:30 | B-18 | Viralité · Contenu | Nouveauté | Les 3 premières secondes décident de tout. |
-| 2026-12-04 | 09:00 | B-19 | E-commerce | Sympathie | Un client qui revient, c’est le plus rentable. |
-| 2026-12-04 | 12:30 | B-20 | Publicité | Orgueil | Fais-toi connaître de ceux qui ne te connaissent pas. |
-| 2026-12-04 | 18:30 | B-21 | Marque | Sympathie | Tes clients achètent aussi ton histoire. |
-| 2026-12-07 | 09:00 | B-22 | Viralité · Contenu | Confort | Ta com gérée, ta visibilité qui grimpe. |
-| 2026-12-07 | 12:30 | B-23 | Site web | Argent | Sois le premier qu’on trouve près de chez toi. |
-| 2026-12-07 | 18:30 | B-24 | Web app · IA | Confort | Plus aucune opportunité oubliée. |
-| 2026-12-08 | 09:00 | B-25 | Réseaux sociaux | Argent | Des contenus qui t’amènent des clients pendant des mois. |
-| 2026-12-08 | 12:30 | B-26 | Viralité · Contenu | Sympathie | Tes clients sont tes meilleurs ambassadeurs. |
-| 2026-12-08 | 18:30 | B-27 | E-commerce | Confort | Ta boutique qui tourne presque toute seule. |
-| 2026-12-09 | 09:00 | B-28 | Publicité | Argent | Ils ont visité ton site… fais-les revenir. |
-| 2026-12-09 | 12:30 | B-29 | Marque | Sécurité | Dis en une phrase pourquoi te choisir. |
-| 2026-12-09 | 18:30 | B-30 | Viralité · Contenu | Argent | Transforme tes vues en clients. |
-| 2026-12-10 | 09:00 | B-31 | Site web | Sécurité | Un site qui rassure, c’est un site qui vend. |
-| 2026-12-10 | 12:30 | B-32 | Web app · IA | Sécurité | Ton activité d’un seul coup d’œil. |
-| 2026-12-10 | 18:30 | B-33 | Réseaux sociaux | Sympathie | Garde le lien avec tes clients, sans algorithme. |
-| 2026-12-11 | 09:00 | B-34 | Viralité · Contenu | Nouveauté | Surfe sur les tendances, sans perdre ton image. |
-| 2026-12-11 | 12:30 | B-35 | E-commerce | Nouveauté | Ta boutique en ligne, prête à vendre. |
-| 2026-12-11 | 18:30 | B-36 | Publicité | Sécurité | Lance ta pub sans prendre de risque. |
-| 2026-12-14 | 09:00 | B-37 | Marque | Nouveauté | Lance ta marque avec impact. |
-| 2026-12-14 | 12:30 | B-38 | Viralité · Contenu | Argent | Un contenu, partout. |
-| 2026-12-14 | 18:30 | B-39 | Site web | Nouveauté | Ton site a pris un coup de vieux ? Tes clients l’ont vu. |
-| 2026-12-15 | 09:00 | B-40 | Web app · IA | Confort | Ton métier ne rentre dans aucun logiciel ? |
-| 2026-12-15 | 12:30 | B-41 | Réseaux sociaux | Sécurité | Tes avis clients sont ta meilleure pub. |
-| 2026-12-15 | 18:30 | B-42 | Viralité · Contenu | Confort | La régularité bat le coup de chance. |
-| 2026-12-16 | 09:00 | B-43 | E-commerce | Argent | Vends là où tes clients achètent déjà. |
-| 2026-12-16 | 12:30 | B-44 | Publicité | Argent | Sur Amazon, fais remonter tes produits. |
-| 2026-12-16 | 18:30 | B-45 | Marque | Confort | Des supports toujours cohérents, sans effort. |
-| 2026-12-17 | 09:00 | B-46 | Viralité · Contenu | Sécurité | Une communauté qui répond, ça se construit. |
-| 2026-12-17 | 12:30 | B-47 | Site web | Confort | Ton site à jour, sans y penser. |
-| 2026-12-17 | 18:30 | B-48 | Web app · IA | Confort | Tes outils qui se parlent enfin. |
-| 2026-12-18 | 09:00 | B-49 | Réseaux sociaux | Nouveauté | Montre ton savoir-faire en vidéo. |
-| 2026-12-18 | 12:30 | B-50 | Viralité · Contenu | Sympathie | Montre tes coulisses, on s’attache à toi. |
-| 2026-12-18 | 18:30 | B-51 | E-commerce | Confort | Tes clients achètent sur mobile. Et ta boutique ? |
-| 2026-12-21 | 09:00 | B-52 | Site web | Argent | Plus de demandes, avec le même trafic. |
-| 2026-12-21 | 12:30 | B-53 | WELLWISH | Sécurité | Ton digital t’a-t-il apporté des clients cette année ? |
-| 2026-12-21 | 18:30 | B-54 | WELLWISH | Nouveauté | 2027 : plus visible, plus de clients, plus de temps. |
+| 2026-11-28 | 12:30 | B-08 | Site web | Argent | Ton site peut vendre pendant que tu dors. |
+| 2026-11-28 | 18:30 | B-09 | Web app · IA | Nouveauté | Et si ton prochain collaborateur était une IA ? |
+| 2026-11-29 | 09:00 | B-10 | Réseaux sociaux | Orgueil | Un Instagram qui donne envie de te contacter. |
+| 2026-11-29 | 12:30 | B-11 | E-commerce | Sécurité | Des fiches produits qui rassurent… et qui vendent. |
+| 2026-11-29 | 18:30 | B-12 | Publicité | Argent | Sois là au moment exact où l’on te cherche. |
+| 2026-11-30 | 09:00 | B-13 | Marque | Argent | Une image forte te fait vendre mieux. |
+| 2026-11-30 | 12:30 | B-14 | Viralité · Contenu | Orgueil | Un contenu qu’on a envie de partager. |
+| 2026-11-30 | 18:30 | B-15 | Site web | Orgueil | Ton site donne-t-il envie de te choisir ? |
+| 2026-12-01 | 09:00 | B-16 | Web app · IA | Argent | Envoie tes devis avant tes concurrents. |
+| 2026-12-01 | 12:30 | B-17 | Réseaux sociaux | Confort | Ton mois de contenu, prêt d’avance. |
+| 2026-12-01 | 18:30 | B-18 | Viralité · Contenu | Nouveauté | Les 3 premières secondes décident de tout. |
+| 2026-12-02 | 09:00 | B-19 | E-commerce | Sympathie | Un client qui revient, c’est le plus rentable. |
+| 2026-12-02 | 12:30 | B-20 | Publicité | Orgueil | Fais-toi connaître de ceux qui ne te connaissent pas. |
+| 2026-12-02 | 18:30 | B-21 | Marque | Sympathie | Tes clients achètent aussi ton histoire. |
+| 2026-12-03 | 09:00 | B-22 | Viralité · Contenu | Confort | Ta com gérée, ta visibilité qui grimpe. |
+| 2026-12-03 | 12:30 | B-23 | Site web | Argent | Sois le premier qu’on trouve près de chez toi. |
+| 2026-12-03 | 18:30 | B-24 | Web app · IA | Confort | Plus aucune opportunité oubliée. |
+| 2026-12-04 | 09:00 | B-25 | Réseaux sociaux | Argent | Des contenus qui t’amènent des clients pendant des mois. |
+| 2026-12-04 | 12:30 | B-26 | Viralité · Contenu | Sympathie | Tes clients sont tes meilleurs ambassadeurs. |
+| 2026-12-04 | 18:30 | B-27 | E-commerce | Confort | Ta boutique qui tourne presque toute seule. |
+| 2026-12-05 | 09:00 | B-28 | Publicité | Argent | Ils ont visité ton site… fais-les revenir. |
+| 2026-12-05 | 12:30 | B-29 | Marque | Sécurité | Dis en une phrase pourquoi te choisir. |
+| 2026-12-05 | 18:30 | B-30 | Viralité · Contenu | Argent | Transforme tes vues en clients. |
+| 2026-12-06 | 09:00 | B-31 | Site web | Sécurité | Un site qui rassure, c’est un site qui vend. |
+| 2026-12-06 | 12:30 | B-32 | Web app · IA | Sécurité | Ton activité d’un seul coup d’œil. |
+| 2026-12-06 | 18:30 | B-33 | Réseaux sociaux | Sympathie | Garde le lien avec tes clients, sans algorithme. |
+| 2026-12-07 | 09:00 | B-34 | Viralité · Contenu | Nouveauté | Surfe sur les tendances, sans perdre ton image. |
+| 2026-12-07 | 12:30 | B-35 | E-commerce | Nouveauté | Ta boutique en ligne, prête à vendre. |
+| 2026-12-07 | 18:30 | B-36 | Publicité | Sécurité | Lance ta pub sans prendre de risque. |
+| 2026-12-08 | 09:00 | B-37 | Marque | Nouveauté | Lance ta marque avec impact. |
+| 2026-12-08 | 12:30 | B-38 | Viralité · Contenu | Argent | Un contenu, partout. |
+| 2026-12-08 | 18:30 | B-39 | Site web | Nouveauté | Ton site a pris un coup de vieux ? Tes clients l’ont vu. |
+| 2026-12-09 | 09:00 | B-40 | Web app · IA | Confort | Ton métier ne rentre dans aucun logiciel ? |
+| 2026-12-09 | 12:30 | B-41 | Réseaux sociaux | Sécurité | Tes avis clients sont ta meilleure pub. |
+| 2026-12-09 | 18:30 | B-42 | Viralité · Contenu | Confort | La régularité bat le coup de chance. |
+| 2026-12-10 | 09:00 | B-43 | E-commerce | Argent | Vends là où tes clients achètent déjà. |
+| 2026-12-10 | 12:30 | B-44 | Publicité | Argent | Sur Amazon, fais remonter tes produits. |
+| 2026-12-10 | 18:30 | B-45 | Marque | Confort | Des supports toujours cohérents, sans effort. |
+| 2026-12-11 | 09:00 | B-46 | Viralité · Contenu | Sécurité | Une communauté qui répond, ça se construit. |
+| 2026-12-11 | 12:30 | B-47 | Site web | Confort | Ton site à jour, sans y penser. |
+| 2026-12-11 | 18:30 | B-48 | Web app · IA | Confort | Tes outils qui se parlent enfin. |
+| 2026-12-12 | 09:00 | B-49 | Réseaux sociaux | Nouveauté | Montre ton savoir-faire en vidéo. |
+| 2026-12-12 | 12:30 | B-50 | Viralité · Contenu | Sympathie | Montre tes coulisses, on s’attache à toi. |
+| 2026-12-12 | 18:30 | B-51 | E-commerce | Confort | Tes clients achètent sur mobile. Et ta boutique ? |
+| 2026-12-13 | 09:00 | B-52 | Site web | Argent | Plus de demandes, avec le même trafic. |
+| 2026-12-13 | 12:30 | B-53 | WELLWISH | Sécurité | Ton digital t’a-t-il apporté des clients cette année ? |
+| 2026-12-13 | 18:30 | B-54 | WELLWISH | Nouveauté | 2027 : plus visible, plus de clients, plus de temps. |
